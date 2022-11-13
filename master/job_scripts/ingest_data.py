@@ -101,8 +101,9 @@ def read_local(path):
         print(f'Data cannot be found at the provided path {local_data_path}')
         
         
-def write_local(df, path, name, suffix):
-    name_suffix = f'{path}.{suffix}'
+def write_local(df, suffix, name, path = os.getcwd()):
+
+    name_suffix = f'{name}.{suffix}'
     
     if suffix == 'csv':
         df.to_csv(os.path.join(path, name_suffix))
@@ -110,4 +111,4 @@ def write_local(df, path, name, suffix):
     elif suffix == 'json':
         df.to_json(os.path.join(path, name_suffix))
     else:
-        print('Cannot save tagged data as a {}.')
+        print(f'Cannot save tagged data as a {suffix}.')

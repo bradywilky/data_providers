@@ -41,13 +41,13 @@ parser.add_argument(
 parser.add_argument(
     '--tagged_data_output_path',
     help = 'Desired filepath to save tagged dataset',
-    default = 'tagged_data'
+    default = None
 )
 
 parser.add_argument(
     '--tagged_data_output_name',
     help = 'What to name the data output as',
-    default = f'tagged_data_{datetime.now().strftime("%d-%m-%Y_%H:%M:%S")}'
+    default = f'tagged_data_{datetime.now().strftime("%d-%m-%Y_%H_%M_%S")}'
 )
 
 parser.add_argument(
@@ -84,8 +84,11 @@ def main():
     with StepTimer('Tag data'):
         tagged_df = tag_data(transformed_df)
 
-    with StepTimer(f'Saving tagged data as {os.path.join(output_path, output_name)}.{format_suffix}'):
-        write_local(tagged_df, output_path, output_name, format_suffix)
+    with StepTimer(f'Saving tagged data as {output_name}.{format_suffix}'):
+        if output_path:
+            write_local(tagged_df, format_suffix, output_name, output_path)
+        else:
+            write_local(tagged_df, format_suffix, output_name)
 
 
 if __name__ == '__main__':
