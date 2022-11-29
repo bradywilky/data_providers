@@ -1,0 +1,1316 @@
+,source_singular,country,country_total,country_pct,source_singular,sub_event_type,sub_event_type_total,sub_event_type_pct
+0,El Diario De La Pampa,Argentina_majority,100,1.0,El Diario De La Pampa,Peaceful_protest_majority,96,0.96
+1,CBC,Canada_majority,268,0.9962825278810409,CBC,Peaceful_protest_majority,219,0.8141263940520446
+2,Calgary Herald,Canada_majority,43,1.0,Calgary Herald,Peaceful_protest_majority,35,0.813953488372093
+3,CTV News,Canada_majority,389,1.0,CTV News,Peaceful_protest_majority,327,0.8406169665809768
+4,Indian Express,India_majority,192,1.0,Indian Express,Peaceful_protest_majority,121,0.6302083333333334
+5,Ponte Jornalismo,Brazil_majority,12,1.0,Ponte Jornalismo,Peaceful_protest_majority,8,0.6666666666666666
+6,Mitteldeutschen Zeitung,Germany_majority,120,1.0,Mitteldeutschen Zeitung,Peaceful_protest_majority,114,0.95
+7,Tagesschau,Germany_majority,28,1.0,Tagesschau,Peaceful_protest_majority,20,0.7142857142857143
+8,Leipziger Volkszeitung,Germany_majority,26,1.0,Leipziger Volkszeitung,Peaceful_protest_majority,26,1.0
+9,Der Tagesspiegel,Germany_majority,100,1.0,Der Tagesspiegel,Peaceful_protest_majority,73,0.73
+10,New York Post,United_States_majority,61,1.0,New York Post,Peaceful_protest_majority,51,0.8360655737704918
+11,RTV Rijnmond,Netherlands_majority,22,1.0,RTV Rijnmond,Peaceful_protest_majority,14,0.6363636363636364
+12,Norddeutscher Rundfunk,Germany_majority,114,1.0,Norddeutscher Rundfunk,Peaceful_protest_majority,104,0.9122807017543859
+13,Telegraph (India),India_majority,179,1.0,Telegraph (India),Peaceful_protest_majority,140,0.7821229050279329
+14,No Cut News,South_Korea_majority,122,0.991869918699187,No Cut News,Peaceful_protest_majority,120,0.975609756097561
+15,NEWSIS,South_Korea_majority,276,0.9928057553956835,NEWSIS,Peaceful_protest_majority,272,0.9784172661870504
+16,MAIN-POST,Germany_majority,133,1.0,MAIN-POST,Peaceful_protest_majority,131,0.9849624060150376
+17,Vicenza Today,Italy_majority,39,1.0,Vicenza Today,Peaceful_protest_majority,39,1.0
+18,Diario Extra,Costa_Rica_majority,38,1.0,Diario Extra,Peaceful_protest_majority,33,0.868421052631579
+19,La Republica (Peru),Peru_majority,302,0.9966996699669967,La Republica (Peru),Peaceful_protest_majority,246,0.8118811881188119
+20,China Times,Taiwan_majority,10,1.0,China Times,Peaceful_protest_majority,9,0.9
+21,Epoch Times,United_States_majority,17,0.7083333333333334,Epoch Times,Peaceful_protest_majority,21,0.875
+22,Torino Today,Italy_majority,105,1.0,Torino Today,Peaceful_protest_majority,96,0.9142857142857143
+23,El Sol de Acapulco,Mexico_majority,145,1.0,El Sol de Acapulco,Peaceful_protest_majority,136,0.9379310344827586
+24,Merkur,Germany_majority,516,0.9980657640232108,Merkur,Peaceful_protest_majority,475,0.9187620889748549
+25,TLZ,Germany_majority,91,1.0,TLZ,Peaceful_protest_majority,81,0.8901098901098901
+26,Sachsische Zeitung,Germany_majority,59,1.0,Sachsische Zeitung,Peaceful_protest_majority,51,0.864406779661017
+27,Polizei Mecklenburg-Vorpommern,Germany_majority,368,1.0,Polizei Mecklenburg-Vorpommern,Peaceful_protest_majority,365,0.9918478260869565
+28,Bayerischer Rundfunk,Germany_majority,25,1.0,Bayerischer Rundfunk,Peaceful_protest_majority,21,0.84
+29,Indypendent,United_States_majority,29,1.0,Indypendent,Peaceful_protest_majority,26,0.896551724137931
+30,Network Contagion Research Institute,United_States_majority,120,1.0,Network Contagion Research Institute,Peaceful_protest_majority,113,0.9416666666666667
+31,Boston Herald,United_States_majority,19,1.0,Boston Herald,Peaceful_protest_majority,18,0.9473684210526315
+32,Dawn (Pakistan),Pakistan_majority,166,1.0,Dawn (Pakistan),Peaceful_protest_majority,155,0.9337349397590361
+33,Castelli News,Italy_majority,49,1.0,Castelli News,Peaceful_protest_majority,48,0.9795918367346939
+34,Corriere Romagna,Italy_majority,79,1.0,Corriere Romagna,Peaceful_protest_majority,79,1.0
+35,KSTA - Kolner Stadt-Anzeiger,Germany_majority,116,1.0,KSTA - Kolner Stadt-Anzeiger,Peaceful_protest_majority,107,0.9224137931034483
+36,News12 (Bronx),United_States_majority,20,1.0,News12 (Bronx),Peaceful_protest_majority,19,0.95
+37,Detik,Indonesia_majority,75,1.0,Detik,Peaceful_protest_majority,50,0.6666666666666666
+38,Siliguri Times,India_majority,238,1.0,Siliguri Times,Peaceful_protest_majority,219,0.9201680672268907
+39,La Patilla,Venezuela_majority,44,1.0,La Patilla,Peaceful_protest_majority,39,0.8863636363636364
+40,Le Progres,France_majority,187,1.0,Le Progres,Peaceful_protest_majority,181,0.9679144385026738
+41,RTE,Ireland_majority,14,0.9333333333333333,RTE,Peaceful_protest_majority,14,0.9333333333333333
+42,Inmediahk.net,China_majority,109,1.0,Inmediahk.net,Peaceful_protest_majority,102,0.9357798165137615
+43,Berliner Zeitung,Germany_majority,103,0.9716981132075472,Berliner Zeitung,Peaceful_protest_majority,85,0.8018867924528302
+44,General Anzeiger,Germany_majority,63,1.0,General Anzeiger,Peaceful_protest_majority,57,0.9047619047619048
+45,Hannoversche Allgemeine,Germany_majority,26,1.0,Hannoversche Allgemeine,Peaceful_protest_majority,23,0.8846153846153846
+46,Le Telegramme,France_majority,344,1.0,Le Telegramme,Peaceful_protest_majority,337,0.9796511627906976
+47,Nochrichten,Austria_majority,26,1.0,Nochrichten,Peaceful_protest_majority,18,0.6923076923076923
+48,Brindisi Report,Italy_majority,13,1.0,Brindisi Report,Peaceful_protest_majority,11,0.8461538461538461
+49,Imagen del Golfo,Mexico_majority,72,1.0,Imagen del Golfo,Peaceful_protest_majority,62,0.8611111111111112
+50,CNA,Taiwan_majority,12,0.8,CNA,Peaceful_protest_majority,12,0.8
+51,HK01,China_majority,100,1.0,HK01,Peaceful_protest_majority,83,0.83
+52,Los Angeles Times,United_States_majority,61,1.0,Los Angeles Times,Peaceful_protest_majority,43,0.7049180327868853
+53,KTLA5,United_States_majority,42,1.0,KTLA5,Peaceful_protest_majority,32,0.7619047619047619
+54,CR Hoy,Costa_Rica_majority,20,0.9090909090909091,CR Hoy,Peaceful_protest_majority,19,0.8636363636363636
+55,Winnipeg Free Press,Canada_majority,23,1.0,Winnipeg Free Press,Peaceful_protest_majority,20,0.8695652173913043
+56,La Presse (Canada),Canada_majority,77,1.0,La Presse (Canada),Peaceful_protest_majority,58,0.7532467532467533
+57,Montreal Gazette,Canada_majority,42,1.0,Montreal Gazette,Peaceful_protest_majority,32,0.7619047619047619
+58,Le Devoir,Canada_majority,23,1.0,Le Devoir,Peaceful_protest_majority,17,0.7391304347826086
+59,Bristolpost,United_Kingdom_majority,20,1.0,Bristolpost,Peaceful_protest_majority,19,0.95
+60,Sud Ouest,France_majority,286,1.0,Sud Ouest,Peaceful_protest_majority,277,0.9685314685314685
+61,Daily Excelsior,India_majority,337,1.0,Daily Excelsior,Peaceful_protest_majority,311,0.9228486646884273
+62,Amar Ujala,India_majority,205,1.0,Amar Ujala,Peaceful_protest_majority,160,0.7804878048780488
+63,Kookje Shinmun,South_Korea_majority,40,1.0,Kookje Shinmun,Peaceful_protest_majority,40,1.0
+64,Hamburger Abendblatt,Germany_majority,98,1.0,Hamburger Abendblatt,Peaceful_protest_majority,82,0.8367346938775511
+65,Radiodresden,Germany_majority,237,1.0,Radiodresden,Peaceful_protest_majority,222,0.9367088607594937
+66,Dresdner Neueste Nachrichten,Germany_majority,84,1.0,Dresdner Neueste Nachrichten,Peaceful_protest_majority,75,0.8928571428571429
+67,Ostsee Zeitung,Germany_majority,61,1.0,Ostsee Zeitung,Peaceful_protest_majority,59,0.9672131147540983
+68,Kantipur,Nepal_majority,85,1.0,Kantipur,Peaceful_protest_majority,75,0.8823529411764706
+69,Westdeutsche Allgemeine Zeitung,Germany_majority,64,0.9846153846153847,Westdeutsche Allgemeine Zeitung,Peaceful_protest_majority,62,0.9538461538461539
+70,Westfalen Post,Germany_majority,25,1.0,Westfalen Post,Peaceful_protest_majority,23,0.92
+71,Saarbruecker Zeitung,Germany_majority,63,0.984375,Saarbruecker Zeitung,Peaceful_protest_majority,59,0.921875
+72,Donau Kurier,Germany_majority,110,1.0,Donau Kurier,Peaceful_protest_majority,106,0.9636363636363636
+73,Kyunghyang Shinmun,South_Korea_majority,148,0.9932885906040269,Kyunghyang Shinmun,Peaceful_protest_majority,144,0.9664429530201343
+74,Matichon,Thailand_majority,77,1.0,Matichon,Peaceful_protest_majority,73,0.948051948051948
+75,YNA,South_Korea_majority,560,0.9911504424778761,YNA,Peaceful_protest_majority,553,0.9787610619469026
+76,Trmtv,Italy_majority,59,1.0,Trmtv,Peaceful_protest_majority,59,1.0
+77,TriestePrima,Italy_majority,68,1.0,TriestePrima,Peaceful_protest_majority,59,0.8676470588235294
+78,Free Press Journal (India),India_majority,85,1.0,Free Press Journal (India),Peaceful_protest_majority,62,0.7294117647058823
+79,Il Quotidiano Del Sud,Italy_majority,56,1.0,Il Quotidiano Del Sud,Peaceful_protest_majority,54,0.9642857142857143
+80,Diario Primicia,Venezuela_majority,18,1.0,Diario Primicia,Peaceful_protest_majority,16,0.8888888888888888
+81,EDaily,South_Korea_majority,131,0.9924242424242424,EDaily,Peaceful_protest_majority,128,0.9696969696969697
+82,France Bleu,France_majority,560,1.0,France Bleu,Peaceful_protest_majority,526,0.9392857142857143
+83,CBS News,United_States_majority,11,1.0,CBS News,Peaceful_protest_majority,9,0.8181818181818182
+84,Chicago Tribune,United_States_majority,27,1.0,Chicago Tribune,Peaceful_protest_majority,26,0.9629629629629629
+85,News1,South_Korea_majority,316,0.9968454258675079,News1,Peaceful_protest_majority,312,0.9842271293375394
+86,YTN,South_Korea_majority,164,1.0,YTN,Peaceful_protest_majority,158,0.9634146341463414
+87,Heute - Osterreichs Neue Tageszeitung,Austria_majority,95,0.9895833333333334,Heute - Osterreichs Neue Tageszeitung,Peaceful_protest_majority,75,0.78125
+88,Le Mauricien,Mauritius_majority,21,1.0,Le Mauricien,Peaceful_protest_majority,20,0.9523809523809523
+89,Defi Media,Mauritius_majority,16,1.0,Defi Media,Peaceful_protest_majority,14,0.875
+90,El Heraldo (Honduras),Honduras_majority,49,1.0,El Heraldo (Honduras),Peaceful_protest_majority,39,0.7959183673469388
+91,El Pais (Honduras),Honduras_majority,36,1.0,El Pais (Honduras),Peaceful_protest_majority,35,0.9722222222222222
+92,Berliner Morgenpost,Germany_majority,101,1.0,Berliner Morgenpost,Peaceful_protest_majority,75,0.7425742574257426
+93,Markische Allgemeine,Germany_majority,54,1.0,Markische Allgemeine,Peaceful_protest_majority,53,0.9814814814814815
+94,AT 5,Netherlands_majority,41,1.0,AT 5,Peaceful_protest_majority,25,0.6097560975609756
+95,Kolnische Rundschau,Germany_majority,87,1.0,Kolnische Rundschau,Peaceful_protest_majority,80,0.9195402298850575
+96,Actu,France_majority,304,1.0,Actu,Peaceful_protest_majority,281,0.9243421052631579
+97,Hessische Niedersachsische Allgemeine,Germany_majority,162,1.0,Hessische Niedersachsische Allgemeine,Peaceful_protest_majority,140,0.8641975308641975
+98,National News Agency Lebanon,Lebanon_majority,25,1.0,National News Agency Lebanon,Peaceful_protest_majority,21,0.84
+99,Karar,Turkey_majority,30,1.0,Karar,Change_to_group_activity_majority,24,0.8
+100,Anadolu Agency,Turkey_majority,78,0.8666666666666667,Anadolu Agency,Change_to_group_activity_majority,81,0.9
+101,New Zealand Herald,New_Zealand_majority,73,1.0,New Zealand Herald,Peaceful_protest_majority,56,0.7671232876712328
+102,I Avgi,Greece_majority,130,1.0,I Avgi,Peaceful_protest_majority,118,0.9076923076923077
+103,Hiba Press,Morocco_majority,28,1.0,Hiba Press,Peaceful_protest_majority,22,0.7857142857142857
+104,Cyprus Mail,Cyprus_majority,28,1.0,Cyprus Mail,Peaceful_protest_majority,26,0.9285714285714286
+105,Diario de Morelos,Mexico_majority,17,1.0,Diario de Morelos,Peaceful_protest_majority,15,0.8823529411764706
+106,Sentinel (India),India_majority,153,1.0,Sentinel (India),Peaceful_protest_majority,145,0.9477124183006536
+107,Sudwest Presse,Germany_majority,130,1.0,Sudwest Presse,Peaceful_protest_majority,120,0.9230769230769231
+108,Global News (Canada),Canada_majority,79,1.0,Global News (Canada),Peaceful_protest_majority,67,0.8481012658227848
+109,CP24,Canada_majority,17,1.0,CP24,Peaceful_protest_majority,12,0.7058823529411765
+110,Waterloo Region Record,Canada_majority,28,1.0,Waterloo Region Record,Peaceful_protest_majority,27,0.9642857142857143
+111,Correo del Sur,Bolivia_majority,170,1.0,Correo del Sur,Peaceful_protest_majority,143,0.8411764705882353
+112,La Region (Peru),Peru_majority,20,1.0,La Region (Peru),Peaceful_protest_majority,18,0.9
+113,Janakpur Today,Nepal_majority,19,1.0,Janakpur Today,Peaceful_protest_majority,16,0.8421052631578947
+114,News12 (Brooklyn),United_States_majority,14,1.0,News12 (Brooklyn),Peaceful_protest_majority,14,1.0
+115,Telegraph-Journal (Canada),Canada_majority,24,1.0,Telegraph-Journal (Canada),Peaceful_protest_majority,18,0.75
+116,El Sol de Sinaloa,Mexico_majority,25,1.0,El Sol de Sinaloa,Peaceful_protest_majority,23,0.92
+117,Ancona Today,Italy_majority,41,1.0,Ancona Today,Peaceful_protest_majority,41,1.0
+118,KDKA2,United_States_majority,21,1.0,KDKA2,Peaceful_protest_majority,20,0.9523809523809523
+119,La Tribuna (Honduras),Honduras_majority,113,1.0,La Tribuna (Honduras),Peaceful_protest_majority,95,0.8407079646017699
+120,Aydinlik,Turkey_majority,14,1.0,Aydinlik,Change_to_group_activity_majority,13,0.9285714285714286
+121,A Haber,Turkey_majority,11,1.0,A Haber,Change_to_group_activity_majority,9,0.8181818181818182
+122,AKIpress,Kyrgyzstan_majority,13,1.0,AKIpress,Peaceful_protest_majority,9,0.6923076923076923
+123,Los Angeles Daily News,United_States_majority,27,1.0,Los Angeles Daily News,Peaceful_protest_majority,27,1.0
+124,Prateek Daily,Nepal_majority,51,1.0,Prateek Daily,Peaceful_protest_majority,33,0.6470588235294118
+125,Helmstedter Nachrichten,Germany_majority,10,1.0,Helmstedter Nachrichten,Peaceful_protest_majority,9,0.9
+126,Windsor Star,Canada_majority,41,1.0,Windsor Star,Peaceful_protest_majority,35,0.8536585365853658
+127,Gilets Jaunes,France_majority,14,1.0,Gilets Jaunes,Peaceful_protest_majority,14,1.0
+128,Daily Hive,Canada_majority,34,1.0,Daily Hive,Peaceful_protest_majority,30,0.8823529411764706
+129,Toronto Star,Canada_majority,80,1.0,Toronto Star,Peaceful_protest_majority,61,0.7625
+130,Hamilton Spectator,Canada_majority,25,1.0,Hamilton Spectator,Peaceful_protest_majority,22,0.88
+131,Bologna Today,Italy_majority,154,1.0,Bologna Today,Peaceful_protest_majority,147,0.9545454545454546
+132,GroundUp,South_Africa_majority,96,1.0,GroundUp,Peaceful_protest_majority,67,0.6979166666666666
+133,Channel 31,Kazakhstan_majority,90,1.0,Channel 31,Peaceful_protest_majority,88,0.9777777777777777
+134,Prensa Comunitaria,Guatemala_majority,23,1.0,Prensa Comunitaria,Peaceful_protest_majority,17,0.7391304347826086
+135,Hindustan Times,India_majority,449,1.0,Hindustan Times,Peaceful_protest_majority,314,0.6993318485523385
+136,Pioneer (India),India_majority,106,1.0,Pioneer (India),Peaceful_protest_majority,68,0.6415094339622641
+137,Diario Correo (Peru),Peru_majority,373,0.9973262032085561,Diario Correo (Peru),Peaceful_protest_majority,300,0.8021390374331551
+138,RTHK,China_majority,44,1.0,RTHK,Peaceful_protest_majority,34,0.7727272727272727
+139,RTV Noord,Netherlands_majority,13,1.0,RTV Noord,Peaceful_protest_majority,10,0.7692307692307693
+140,Ihlas News Agency,Turkey_majority,39,1.0,Ihlas News Agency,Change_to_group_activity_majority,27,0.6923076923076923
+141,El Pais (Uruguay),Uruguay_majority,10,0.9090909090909091,El Pais (Uruguay),Peaceful_protest_majority,10,0.9090909090909091
+142,WDRB,United_States_majority,12,1.0,WDRB,Peaceful_protest_majority,11,0.9166666666666666
+143,Kleine Zeitung,Austria_majority,30,0.967741935483871,Kleine Zeitung,Peaceful_protest_majority,24,0.7741935483870968
+144,Radio Osterreich 1,Austria_majority,193,0.9846938775510204,Radio Osterreich 1,Peaceful_protest_majority,165,0.8418367346938775
+145,Krone,Austria_majority,111,0.9327731092436975,Krone,Peaceful_protest_majority,101,0.8487394957983193
+146,Venezia Today,Italy_majority,88,1.0,Venezia Today,Peaceful_protest_majority,85,0.9659090909090909
+147,Haderi Ha Haredeem,Israel_majority,11,0.7857142857142857,Haderi Ha Haredeem,Mob_violence_majority,10,0.7142857142857143
+148,Dongyang Ilbo,South_Korea_majority,18,1.0,Dongyang Ilbo,Peaceful_protest_majority,16,0.8888888888888888
+149,CLB (China),China_majority,38,1.0,CLB (China),Peaceful_protest_majority,34,0.8947368421052632
+150,Ziarul de Iasi,Romania_majority,40,1.0,Ziarul de Iasi,Peaceful_protest_majority,30,0.75
+151,Hankyoreh,South_Korea_majority,97,1.0,Hankyoreh,Peaceful_protest_majority,94,0.9690721649484536
+152,New Indian Express,India_majority,130,1.0,New Indian Express,Peaceful_protest_majority,89,0.6846153846153846
+153,Chandigarh Tribune,India_majority,373,1.0,Chandigarh Tribune,Peaceful_protest_majority,334,0.8954423592493298
+154,HCH,Honduras_majority,45,1.0,HCH,Peaceful_protest_majority,40,0.8888888888888888
+155,Proceso Digital,Honduras_majority,88,1.0,Proceso Digital,Peaceful_protest_majority,74,0.8409090909090909
+156,Tribunnews,Indonesia_majority,324,1.0,Tribunnews,Peaceful_protest_majority,266,0.8209876543209876
+157,Noroeste,Mexico_majority,28,1.0,Noroeste,Peaceful_protest_majority,28,1.0
+158,ABC7 (New York),United_States_majority,38,1.0,ABC7 (New York),Peaceful_protest_majority,35,0.9210526315789473
+159,News 12,United_States_majority,15,1.0,News 12,Peaceful_protest_majority,14,0.9333333333333333
+160,Anti-Defamation League,United_States_majority,28,1.0,Anti-Defamation League,Other_majority,25,0.8928571428571429
+161,FNN,Japan_majority,21,1.0,FNN,Peaceful_protest_majority,16,0.7619047619047619
+162,L'Adige,Italy_majority,126,1.0,L'Adige,Peaceful_protest_majority,120,0.9523809523809523
+163,Fox11 (Los Angeles),United_States_majority,18,1.0,Fox11 (Los Angeles),Peaceful_protest_majority,17,0.9444444444444444
+164,La Manche Libre,France_majority,20,1.0,La Manche Libre,Peaceful_protest_majority,20,1.0
+165,Kreiszeitung,Germany_majority,101,1.0,Kreiszeitung,Peaceful_protest_majority,85,0.8415841584158416
+166,Orissa TV,India_majority,74,1.0,Orissa TV,Peaceful_protest_majority,57,0.7702702702702703
+167,Il Pescara,Italy_majority,74,1.0,Il Pescara,Peaceful_protest_majority,74,1.0
+168,France24,France_majority,11,0.7857142857142857,France24,Peaceful_protest_majority,10,0.7142857142857143
+169,El Salvador.com,El_Salvador_majority,15,1.0,El Salvador.com,Peaceful_protest_majority,13,0.8666666666666667
+170,Free Union of Iranian Workers,Iran_majority,130,1.0,Free Union of Iranian Workers,Peaceful_protest_majority,124,0.9538461538461539
+171,Eteraze Bazar,Iran_majority,55,1.0,Eteraze Bazar,Peaceful_protest_majority,53,0.9636363636363636
+172,Iran Kargar,Iran_majority,90,1.0,Iran Kargar,Peaceful_protest_majority,86,0.9555555555555556
+173,Annapurna Post,Nepal_majority,81,1.0,Annapurna Post,Peaceful_protest_majority,50,0.6172839506172839
+174,The Hindu,India_majority,379,1.0,The Hindu,Peaceful_protest_majority,319,0.841688654353562
+175,Ruhrnachrichten,Germany_majority,75,1.0,Ruhrnachrichten,Peaceful_protest_majority,67,0.8933333333333333
+176,Cerveaux Non Disponibles,France_majority,61,0.953125,Cerveaux Non Disponibles,Peaceful_protest_majority,51,0.796875
+177,FTV,Taiwan_majority,25,1.0,FTV,Peaceful_protest_majority,23,0.92
+178,Diario de Chimbote (Peru),Peru_majority,14,1.0,Diario de Chimbote (Peru),Peaceful_protest_majority,14,1.0
+179,AMNA,Greece_majority,153,1.0,AMNA,Peaceful_protest_majority,108,0.7058823529411765
+180,Redheaded Blackbelt,United_States_majority,10,1.0,Redheaded Blackbelt,Peaceful_protest_majority,9,0.9
+181,Hoy Tamaulipas,Mexico_majority,70,1.0,Hoy Tamaulipas,Peaceful_protest_majority,65,0.9285714285714286
+182,El Observador,Uruguay_majority,14,1.0,El Observador,Peaceful_protest_majority,11,0.7857142857142857
+183,Seoul Shinmun,South_Korea_majority,143,0.9930555555555556,Seoul Shinmun,Peaceful_protest_majority,136,0.9444444444444444
+184,El Faro De Ceuta,Spain_majority,18,1.0,El Faro De Ceuta,Peaceful_protest_majority,17,0.9444444444444444
+185,Milenio,Mexico_majority,480,1.0,Milenio,Peaceful_protest_majority,445,0.9270833333333334
+186,La Depeche,France_majority,269,1.0,La Depeche,Peaceful_protest_majority,264,0.9814126394052045
+187,Ottawa Citizen,Canada_majority,52,1.0,Ottawa Citizen,Peaceful_protest_majority,40,0.7692307692307693
+188,Ratopati,Nepal_majority,107,1.0,Ratopati,Peaceful_protest_majority,83,0.7757009345794392
+189,La Silla Rota,Mexico_majority,188,1.0,La Silla Rota,Peaceful_protest_majority,168,0.8936170212765957
+190,El Periodico,Guatemala_majority,54,0.9642857142857143,El Periodico,Peaceful_protest_majority,42,0.75
+191,France 3 Regions,France_majority,830,0.9975961538461539,France 3 Regions,Peaceful_protest_majority,762,0.9158653846153846
+192,Saskatoon StarPhoenix,Canada_majority,36,1.0,Saskatoon StarPhoenix,Peaceful_protest_majority,33,0.9166666666666666
+193,KGUN9,United_States_majority,15,1.0,KGUN9,Peaceful_protest_majority,15,1.0
+194,Schwabische Zeitung,Germany_majority,64,1.0,Schwabische Zeitung,Peaceful_protest_majority,56,0.875
+195,Europa Press,Spain_majority,162,1.0,Europa Press,Peaceful_protest_majority,157,0.9691358024691358
+196,WSVN,United_States_majority,22,1.0,WSVN,Peaceful_protest_majority,19,0.8636363636363636
+197,Publico (Spain),Spain_majority,38,1.0,Publico (Spain),Peaceful_protest_majority,37,0.9736842105263158
+198,Northlines,India_majority,22,1.0,Northlines,Peaceful_protest_majority,20,0.9090909090909091
+199,ArezzoWeb,Italy_majority,19,1.0,ArezzoWeb,Peaceful_protest_majority,17,0.8947368421052632
+200,BRUZZ,Belgium_majority,73,1.0,BRUZZ,Peaceful_protest_majority,54,0.7397260273972602
+201,Fuldaer Zeitung,Germany_majority,83,1.0,Fuldaer Zeitung,Peaceful_protest_majority,77,0.927710843373494
+202,Diario El Dia,Argentina_majority,169,1.0,Diario El Dia,Peaceful_protest_majority,158,0.9349112426035503
+203,La Republique du Centre,France_majority,23,1.0,La Republique du Centre,Peaceful_protest_majority,23,1.0
+204,Le Dauphine,France_majority,221,1.0,Le Dauphine,Peaceful_protest_majority,211,0.9547511312217195
+205,RNZ,New_Zealand_majority,42,0.75,RNZ,Peaceful_protest_majority,42,0.75
+206,Chosun Ilbo,South_Korea_majority,74,1.0,Chosun Ilbo,Peaceful_protest_majority,68,0.918918918918919
+207,La Voz De Galicia,Spain_majority,137,0.9927536231884058,La Voz De Galicia,Peaceful_protest_majority,137,0.9927536231884058
+208,La Voz del Interior (Argentina),Argentina_majority,30,1.0,La Voz del Interior (Argentina),Peaceful_protest_majority,27,0.9
+209,Liberty Times,Taiwan_majority,47,1.0,Liberty Times,Peaceful_protest_majority,45,0.9574468085106383
+210,News.ro,Romania_majority,75,1.0,News.ro,Peaceful_protest_majority,55,0.7333333333333333
+211,Haber 7,Turkey_majority,24,1.0,Haber 7,Change_to_group_activity_majority,22,0.9166666666666666
+212,Asian News International,India_majority,196,0.9333333333333333,Asian News International,Peaceful_protest_majority,147,0.7
+213,Polizei Sachsen,Germany_majority,382,1.0,Polizei Sachsen,Peaceful_protest_majority,366,0.9581151832460733
+214,Midi Libre,France_majority,83,1.0,Midi Libre,Peaceful_protest_majority,78,0.9397590361445783
+215,Greater Jammu,India_majority,16,1.0,Greater Jammu,Peaceful_protest_majority,13,0.8125
+216,UDN,Taiwan_majority,14,1.0,UDN,Peaceful_protest_majority,14,1.0
+217,Entorno Informativo,Mexico_majority,33,1.0,Entorno Informativo,Peaceful_protest_majority,29,0.8787878787878788
+218,MilitiaWatch,United_States_majority,124,1.0,MilitiaWatch,Peaceful_protest_majority,100,0.8064516129032258
+219,Assam Tribune,India_majority,72,1.0,Assam Tribune,Peaceful_protest_majority,57,0.7916666666666666
+220,ABC7 (San Francisco),United_States_majority,23,1.0,ABC7 (San Francisco),Peaceful_protest_majority,21,0.9130434782608695
+221,Kashmir Images,India_majority,11,1.0,Kashmir Images,Peaceful_protest_majority,8,0.7272727272727273
+222,La Prensa (Honduras),Honduras_majority,61,1.0,La Prensa (Honduras),Peaceful_protest_majority,49,0.8032786885245902
+223,Rheinpfalz,Germany_majority,186,1.0,Rheinpfalz,Peaceful_protest_majority,182,0.978494623655914
+224,Swr,Germany_majority,108,1.0,Swr,Peaceful_protest_majority,97,0.8981481481481481
+225,Rise and Resist NY,United_States_majority,11,1.0,Rise and Resist NY,Peaceful_protest_majority,11,1.0
+226,El Impulso,Venezuela_majority,54,1.0,El Impulso,Peaceful_protest_majority,54,1.0
+227,ET Today,Taiwan_majority,13,1.0,ET Today,Peaceful_protest_majority,10,0.7692307692307693
+228,ABC Color,Paraguay_majority,345,0.9885386819484241,ABC Color,Peaceful_protest_majority,318,0.9111747851002865
+229,JoongAng Ilbo,South_Korea_majority,92,0.9787234042553191,JoongAng Ilbo,Peaceful_protest_majority,85,0.9042553191489362
+230,Korea Economic Daily,South_Korea_majority,47,0.9791666666666666,Korea Economic Daily,Peaceful_protest_majority,43,0.8958333333333334
+231,Rhein-Neckar-Zeitung,Germany_majority,119,1.0,Rhein-Neckar-Zeitung,Peaceful_protest_majority,114,0.957983193277311
+232,Haberler,Turkey_majority,90,1.0,Haberler,Change_to_group_activity_majority,56,0.6222222222222222
+233,Northeast Now,India_majority,86,1.0,Northeast Now,Peaceful_protest_majority,76,0.8837209302325582
+234,MSN News,United_States_majority,9,0.9,MSN News,Peaceful_protest_majority,10,1.0
+235,La Nacion (Argentina),Argentina_majority,474,0.9957983193277311,La Nacion (Argentina),Peaceful_protest_majority,446,0.9369747899159664
+236,Il Mattino,Italy_majority,10,1.0,Il Mattino,Peaceful_protest_majority,10,1.0
+237,Umbria24,Italy_majority,75,1.0,Umbria24,Peaceful_protest_majority,74,0.9866666666666667
+238,RIAS,Germany_majority,232,1.0,RIAS,Peaceful_protest_majority,219,0.9439655172413793
+239,L'Echo Republicain,France_majority,32,1.0,L'Echo Republicain,Peaceful_protest_majority,32,1.0
+240,L'Yonne,France_majority,37,1.0,L'Yonne,Peaceful_protest_majority,37,1.0
+241,La Provence,France_majority,47,0.9791666666666666,La Provence,Peaceful_protest_majority,45,0.9375
+242,Revolution Permanente,France_majority,36,0.972972972972973,Revolution Permanente,Peaceful_protest_majority,26,0.7027027027027027
+243,Newsweek,United_States_majority,21,1.0,Newsweek,Peaceful_protest_majority,16,0.7619047619047619
+244,Padova Oggi,Italy_majority,67,1.0,Padova Oggi,Peaceful_protest_majority,66,0.9850746268656716
+245,Kent Online,United_Kingdom_majority,15,1.0,Kent Online,Peaceful_protest_majority,12,0.8
+246,Centre Presse,France_majority,29,1.0,Centre Presse,Peaceful_protest_majority,29,1.0
+247,Segye Ilbo,South_Korea_majority,138,0.9928057553956835,Segye Ilbo,Peaceful_protest_majority,133,0.9568345323741008
+248,Newsday Trinidad and Tobago,Trinidad_and_Tobago_majority,15,1.0,Newsday Trinidad and Tobago,Peaceful_protest_majority,11,0.7333333333333333
+249,L'Est Republicain,France_majority,112,1.0,L'Est Republicain,Peaceful_protest_majority,106,0.9464285714285714
+250,La Marseillaise,France_majority,35,1.0,La Marseillaise,Peaceful_protest_majority,34,0.9714285714285714
+251,La Montagne,France_majority,89,1.0,La Montagne,Peaceful_protest_majority,87,0.9775280898876404
+252,La Republique des Pyrenees,France_majority,46,1.0,La Republique des Pyrenees,Peaceful_protest_majority,43,0.9347826086956522
+253,La Voix Du Nord,France_majority,110,1.0,La Voix Du Nord,Peaceful_protest_majority,106,0.9636363636363636
+254,Le Populaire,France_majority,14,1.0,Le Populaire,Peaceful_protest_majority,13,0.9285714285714286
+255,Ouest France,France_majority,399,1.0,Ouest France,Peaceful_protest_majority,379,0.949874686716792
+256,Heraldo De Aragon,Spain_majority,157,1.0,Heraldo De Aragon,Peaceful_protest_majority,153,0.9745222929936306
+257,Tabasco Hoy,Mexico_majority,32,1.0,Tabasco Hoy,Peaceful_protest_majority,26,0.8125
+258,Indymedia Argentina,Argentina_majority,89,1.0,Indymedia Argentina,Peaceful_protest_majority,76,0.8539325842696629
+259,Early Times (India),India_majority,61,1.0,Early Times (India),Peaceful_protest_majority,58,0.9508196721311475
+260,El Siglo de Durango,Mexico_majority,58,1.0,El Siglo de Durango,Peaceful_protest_majority,52,0.896551724137931
+261,Antena San Luis,Mexico_majority,24,1.0,Antena San Luis,Peaceful_protest_majority,18,0.75
+262,Uprise RI,United_States_majority,15,1.0,Uprise RI,Peaceful_protest_majority,15,1.0
+263,Busan Ilbo,South_Korea_majority,69,1.0,Busan Ilbo,Peaceful_protest_majority,68,0.9855072463768116
+264,Irish Examiner,Ireland_majority,18,0.9,Irish Examiner,Peaceful_protest_majority,17,0.85
+265,Edmonton Journal,Canada_majority,31,1.0,Edmonton Journal,Peaceful_protest_majority,21,0.6774193548387096
+266,Morgen Post,Germany_majority,69,1.0,Morgen Post,Peaceful_protest_majority,53,0.7681159420289855
+267,Kiho Ilbo,South_Korea_majority,39,1.0,Kiho Ilbo,Peaceful_protest_majority,39,1.0
+268,Colima Noticias,Mexico_majority,11,1.0,Colima Noticias,Peaceful_protest_majority,10,0.9090909090909091
+269,Adevarul,Romania_majority,129,0.9923076923076923,Adevarul,Peaceful_protest_majority,111,0.8538461538461538
+270,Newsweek.ro,Romania_majority,45,1.0,Newsweek.ro,Peaceful_protest_majority,32,0.7111111111111111
+271,Aosta Sera,Italy_majority,29,1.0,Aosta Sera,Peaceful_protest_majority,29,1.0
+272,Chieti Today,Italy_majority,22,1.0,Chieti Today,Peaceful_protest_majority,22,1.0
+273,WUSA9,United_States_majority,21,1.0,WUSA9,Peaceful_protest_majority,19,0.9047619047619048
+274,Fox45 (Baltimore),United_States_majority,31,1.0,Fox45 (Baltimore),Peaceful_protest_majority,28,0.9032258064516129
+275,SOL (Germany),Germany_majority,22,1.0,SOL (Germany),Peaceful_protest_majority,22,1.0
+276,Dong-a Ilbo,South_Korea_majority,36,0.972972972972973,Dong-a Ilbo,Peaceful_protest_majority,31,0.8378378378378378
+277,Newcastle Herald,Australia_majority,20,1.0,Newcastle Herald,Peaceful_protest_majority,14,0.7
+278,Greater Kashmir,India_majority,33,1.0,Greater Kashmir,Peaceful_protest_majority,27,0.8181818181818182
+279,Oggi Treviso,Italy_majority,80,1.0,Oggi Treviso,Peaceful_protest_majority,79,0.9875
+280,West Australian,Australia_majority,21,1.0,West Australian,Peaceful_protest_majority,19,0.9047619047619048
+281,La Tribune (Canada),Canada_majority,11,1.0,La Tribune (Canada),Peaceful_protest_majority,9,0.8181818181818182
+282,Pagina 24 Zacatecas,Mexico_majority,21,1.0,Pagina 24 Zacatecas,Peaceful_protest_majority,21,1.0
+283,Kyeongin Ilbo,South_Korea_majority,51,1.0,Kyeongin Ilbo,Peaceful_protest_majority,51,1.0
+284,ABC7 (Washington D.C.),United_States_majority,20,1.0,ABC7 (Washington D.C.),Peaceful_protest_majority,20,1.0
+285,Fox7 (Austin),United_States_majority,15,1.0,Fox7 (Austin),Peaceful_protest_majority,13,0.8666666666666667
+286,Your Mountain Television WYMT,United_States_majority,10,1.0,Your Mountain Television WYMT,Peaceful_protest_majority,10,1.0
+287,Al Akhbar (Mauritania),Mauritania_majority,22,0.9565217391304348,Al Akhbar (Mauritania),Peaceful_protest_majority,19,0.8260869565217391
+288,El Deber,Bolivia_majority,143,1.0,El Deber,Peaceful_protest_majority,119,0.8321678321678322
+289,Telegram,United_States_majority,12,1.0,Telegram,Peaceful_protest_majority,11,0.9166666666666666
+290,La Gazzetta Di Lucca,Italy_majority,37,1.0,La Gazzetta Di Lucca,Peaceful_protest_majority,37,1.0
+291,United News of India,India_majority,82,1.0,United News of India,Peaceful_protest_majority,68,0.8292682926829268
+292,La Sicilia Web,Italy_majority,15,1.0,La Sicilia Web,Peaceful_protest_majority,14,0.9333333333333333
+293,BlogSicilia,Italy_majority,144,1.0,BlogSicilia,Peaceful_protest_majority,138,0.9583333333333334
+294,Shuud.mn,Mongolia_majority,14,1.0,Shuud.mn,Peaceful_protest_majority,10,0.7142857142857143
+295,Rudaw,Turkey_majority,42,0.8571428571428571,Rudaw,Change_to_group_activity_majority,40,0.8163265306122449
+296,Noordhollands Dagblad,Netherlands_majority,40,1.0,Noordhollands Dagblad,Peaceful_protest_majority,30,0.75
+297,Al Chourouk,Tunisia_majority,99,1.0,Al Chourouk,Peaceful_protest_majority,91,0.9191919191919192
+298,Agence Tunis Afrique Presse,Tunisia_majority,102,1.0,Agence Tunis Afrique Presse,Peaceful_protest_majority,93,0.9117647058823529
+299,Chek News,Canada_majority,40,1.0,Chek News,Peaceful_protest_majority,37,0.925
+300,Andaman Sheekha,India_majority,18,1.0,Andaman Sheekha,Peaceful_protest_majority,17,0.9444444444444444
+301,Il Friuli,Italy_majority,48,1.0,Il Friuli,Peaceful_protest_majority,43,0.8958333333333334
+302,Mainichi Shimbun,Japan_majority,52,1.0,Mainichi Shimbun,Peaceful_protest_majority,47,0.9038461538461539
+303,Asahi Shimbun,Japan_majority,24,1.0,Asahi Shimbun,Peaceful_protest_majority,20,0.8333333333333334
+304,Wyborcza,Poland_majority,31,0.96875,Wyborcza,Peaceful_protest_majority,29,0.90625
+305,Fox61,United_States_majority,31,1.0,Fox61,Peaceful_protest_majority,31,1.0
+306,Boston Globe,United_States_majority,40,1.0,Boston Globe,Peaceful_protest_majority,37,0.925
+307,Le Journal de Quebec,Canada_majority,45,1.0,Le Journal de Quebec,Peaceful_protest_majority,36,0.8
+308,KOIN6,United_States_majority,28,1.0,KOIN6,Peaceful_protest_majority,24,0.8571428571428571
+309,AFN - Tijuana,Mexico_majority,10,1.0,AFN - Tijuana,Peaceful_protest_majority,10,1.0
+310,Quadratin Oaxaca,Mexico_majority,67,1.0,Quadratin Oaxaca,Peaceful_protest_majority,57,0.8507462686567164
+311,OVCS: Observatorio Venezolano de Conflictividad Social,Venezuela_majority,328,1.0,OVCS: Observatorio Venezolano de Conflictividad Social,Peaceful_protest_majority,328,1.0
+312,La Patria en Linea,Bolivia_majority,50,1.0,La Patria en Linea,Peaceful_protest_majority,47,0.94
+313,La Opinion De Murcia,Spain_majority,25,1.0,La Opinion De Murcia,Peaceful_protest_majority,24,0.96
+314,WDR,Germany_majority,78,1.0,WDR,Peaceful_protest_majority,73,0.9358974358974359
+315,NBC Bay Area,United_States_majority,18,1.0,NBC Bay Area,Peaceful_protest_majority,15,0.8333333333333334
+316,NBC6 Chicago,United_States_majority,13,1.0,NBC6 Chicago,Peaceful_protest_majority,11,0.8461538461538461
+317,TVA Nouvelles,Canada_majority,19,1.0,TVA Nouvelles,Peaceful_protest_majority,15,0.7894736842105263
+318,Fox Providence,United_States_majority,13,1.0,Fox Providence,Peaceful_protest_majority,11,0.8461538461538461
+319,Patriot-News,United_States_majority,13,1.0,Patriot-News,Peaceful_protest_majority,13,1.0
+320,Udriin Sonin,Mongolia_majority,24,1.0,Udriin Sonin,Peaceful_protest_majority,18,0.75
+321,Ikon.mn,Mongolia_majority,20,1.0,Ikon.mn,Peaceful_protest_majority,14,0.7
+322,Avenue Mail,India_majority,15,1.0,Avenue Mail,Peaceful_protest_majority,13,0.8666666666666667
+323,KITV4,United_States_majority,16,1.0,KITV4,Peaceful_protest_majority,16,1.0
+324,Maui Now,United_States_majority,16,1.0,Maui Now,Peaceful_protest_majority,15,0.9375
+325,Kurdistan24,Turkey_majority,14,0.9333333333333333,Kurdistan24,Change_to_group_activity_majority,15,1.0
+326,ABC10 (Sacramento),United_States_majority,12,1.0,ABC10 (Sacramento),Peaceful_protest_majority,11,0.9166666666666666
+327,Sacramento Bee,United_States_majority,21,1.0,Sacramento Bee,Peaceful_protest_majority,20,0.9523809523809523
+328,Kashmir News Service,India_majority,11,1.0,Kashmir News Service,Peaceful_protest_majority,9,0.8181818181818182
+329,California Nurses Association,United_States_majority,54,1.0,California Nurses Association,Peaceful_protest_majority,54,1.0
+330,Press Democrat,United_States_majority,13,1.0,Press Democrat,Peaceful_protest_majority,12,0.9230769230769231
+331,San Francisco Chronicle,United_States_majority,31,1.0,San Francisco Chronicle,Peaceful_protest_majority,31,1.0
+332,Santa Cruz Sentinel,United_States_majority,11,1.0,Santa Cruz Sentinel,Peaceful_protest_majority,11,1.0
+333,News 4 Nashville,United_States_majority,12,1.0,News 4 Nashville,Peaceful_protest_majority,12,1.0
+334,Dhaka Tribune,Bangladesh_majority,153,1.0,Dhaka Tribune,Peaceful_protest_majority,114,0.7450980392156863
+335,Nice Matin,France_majority,38,0.9743589743589743,Nice Matin,Peaceful_protest_majority,35,0.8974358974358975
+336,Charente Libre,France_majority,16,1.0,Charente Libre,Peaceful_protest_majority,16,1.0
+337,Il Corriere Delle Alpi,Italy_majority,31,1.0,Il Corriere Delle Alpi,Peaceful_protest_majority,31,1.0
+338,LiguriaNotizie,Italy_majority,95,1.0,LiguriaNotizie,Peaceful_protest_majority,90,0.9473684210526315
+339,Sr-Online,Germany_majority,24,1.0,Sr-Online,Peaceful_protest_majority,24,1.0
+340,Cope,Spain_majority,65,1.0,Cope,Peaceful_protest_majority,58,0.8923076923076924
+341,The Journal (Ireland),Ireland_majority,13,0.9285714285714286,The Journal (Ireland),Peaceful_protest_majority,11,0.7857142857142857
+342,Weser Kurier Politik,Germany_majority,93,1.0,Weser Kurier Politik,Peaceful_protest_majority,81,0.8709677419354839
+343,Sapo 24,Portugal_majority,20,0.9523809523809523,Sapo 24,Peaceful_protest_majority,18,0.8571428571428571
+344,Iranian Labour News Agency,Iran_majority,42,1.0,Iranian Labour News Agency,Peaceful_protest_majority,40,0.9523809523809523
+345,Times-Colonist,Canada_majority,37,1.0,Times-Colonist,Peaceful_protest_majority,31,0.8378378378378378
+346,Manoto,Iran_majority,14,1.0,Manoto,Peaceful_protest_majority,12,0.8571428571428571
+347,Daily Star (Bangladesh),Bangladesh_majority,83,1.0,Daily Star (Bangladesh),Peaceful_protest_majority,61,0.7349397590361446
+348,Georgia Straight,Canada_majority,18,1.0,Georgia Straight,Peaceful_protest_majority,17,0.9444444444444444
+349,Human Rights Activists in Iran (HRA),Iran_majority,102,1.0,Human Rights Activists in Iran (HRA),Peaceful_protest_majority,91,0.8921568627450981
+350,Badische-Zeitung,Germany_majority,45,1.0,Badische-Zeitung,Peaceful_protest_majority,36,0.8
+351,Ilgiornaledisalerno,Italy_majority,61,1.0,Ilgiornaledisalerno,Peaceful_protest_majority,59,0.9672131147540983
+352,La Repubblica,Italy_majority,707,1.0,La Repubblica,Peaceful_protest_majority,670,0.9476661951909476
+353,La Verdad De Murcia,Spain_majority,51,1.0,La Verdad De Murcia,Peaceful_protest_majority,49,0.9607843137254902
+354,Stuff,New_Zealand_majority,47,1.0,Stuff,Peaceful_protest_majority,46,0.9787234042553191
+355,Press (New Zealand),New_Zealand_majority,23,1.0,Press (New Zealand),Peaceful_protest_majority,19,0.8260869565217391
+356,Al 3omk,Morocco_majority,105,0.9905660377358491,Al 3omk,Peaceful_protest_majority,86,0.8113207547169812
+357,Hankook Ilbo,South_Korea_majority,75,0.9868421052631579,Hankook Ilbo,Peaceful_protest_majority,68,0.8947368421052632
+358,Passauer Neue Presse,Germany_majority,212,0.9953051643192489,Passauer Neue Presse,Peaceful_protest_majority,192,0.9014084507042254
+359,SXM Talks,Saint_Martin_majority,22,0.9166666666666666,SXM Talks,Violent_demonstration_majority,15,0.625
+360,Italpress,Italy_majority,22,0.9565217391304348,Italpress,Peaceful_protest_majority,16,0.6956521739130435
+361,News12 (Long Island),United_States_majority,13,1.0,News12 (Long Island),Peaceful_protest_majority,13,1.0
+362,Detroit News,United_States_majority,25,1.0,Detroit News,Peaceful_protest_majority,23,0.92
+363,MLive,United_States_majority,35,1.0,MLive,Peaceful_protest_majority,34,0.9714285714285714
+364,Omroep Gelderland,Netherlands_majority,36,1.0,Omroep Gelderland,Peaceful_protest_majority,23,0.6388888888888888
+365,Tagblatt (Germany),Germany_majority,35,1.0,Tagblatt (Germany),Peaceful_protest_majority,33,0.9428571428571428
+366,Modena Today,Italy_majority,70,1.0,Modena Today,Peaceful_protest_majority,66,0.9428571428571428
+367,Seguo News,Italy_majority,15,1.0,Seguo News,Peaceful_protest_majority,12,0.8
+368,L'Alsace,France_majority,80,0.9876543209876543,L'Alsace,Peaceful_protest_majority,77,0.9506172839506173
+369,Fakti.bg,Bulgaria_majority,81,1.0,Fakti.bg,Peaceful_protest_majority,78,0.9629629629629629
+370,Mezopotamya Agency,Turkey_majority,185,1.0,Mezopotamya Agency,Peaceful_protest_majority,128,0.6918918918918919
+371,Cronaca Qui,Italy_majority,79,1.0,Cronaca Qui,Peaceful_protest_majority,71,0.8987341772151899
+372,Boston.com,United_States_majority,13,1.0,Boston.com,Peaceful_protest_majority,13,1.0
+373,Liberation News,United_States_majority,46,1.0,Liberation News,Peaceful_protest_majority,46,1.0
+374,Sosialis (Malaysia),Malaysia_majority,17,1.0,Sosialis (Malaysia),Peaceful_protest_majority,17,1.0
+375,Kashmir Times,India_majority,19,1.0,Kashmir Times,Peaceful_protest_majority,15,0.7894736842105263
+376,Milano Today,Italy_majority,173,1.0,Milano Today,Peaceful_protest_majority,155,0.8959537572254336
+377,Corriere Adriatico,Italy_majority,23,1.0,Corriere Adriatico,Peaceful_protest_majority,21,0.9130434782608695
+378,Breitbart,United_States_majority,15,1.0,Breitbart,Peaceful_protest_majority,13,0.8666666666666667
+379,News2Share,United_States_majority,34,1.0,News2Share,Peaceful_protest_majority,29,0.8529411764705882
+380,La Sicilia,Italy_majority,64,1.0,La Sicilia,Peaceful_protest_majority,54,0.84375
+381,Niederosterreichische Nachrichten,Austria_majority,40,1.0,Niederosterreichische Nachrichten,Peaceful_protest_majority,32,0.8
+382,Napoli Today,Italy_majority,122,1.0,Napoli Today,Peaceful_protest_majority,114,0.9344262295081968
+383,Gazeta Digital,Brazil_majority,29,1.0,Gazeta Digital,Peaceful_protest_majority,29,1.0
+384,La Region,Spain_majority,18,0.72,La Region,Peaceful_protest_majority,24,0.96
+385,Nnn,Germany_majority,208,1.0,Nnn,Peaceful_protest_majority,199,0.9567307692307693
+386,Rawstory,United_States_majority,10,1.0,Rawstory,Peaceful_protest_majority,8,0.8
+387,Globe and Mail (Canada),Canada_majority,37,1.0,Globe and Mail (Canada),Peaceful_protest_majority,28,0.7567567567567568
+388,Victoria News,Canada_majority,49,1.0,Victoria News,Peaceful_protest_majority,43,0.8775510204081632
+389,Cagliaripad,Italy_majority,89,1.0,Cagliaripad,Peaceful_protest_majority,83,0.9325842696629213
+390,El Comercio (Ecuador),Ecuador_majority,120,0.975609756097561,El Comercio (Ecuador),Peaceful_protest_majority,101,0.8211382113821138
+391,Casteddu Online,Italy_majority,87,1.0,Casteddu Online,Peaceful_protest_majority,80,0.9195402298850575
+392,Foggia Today,Italy_majority,30,1.0,Foggia Today,Peaceful_protest_majority,28,0.9333333333333333
+393,Washington Post,United_States_majority,46,0.9583333333333334,Washington Post,Peaceful_protest_majority,39,0.8125
+394,Las Cruces Sun-News,United_States_majority,11,1.0,Las Cruces Sun-News,Peaceful_protest_majority,10,0.9090909090909091
+395,El Siglo (Panama),Panama_majority,36,1.0,El Siglo (Panama),Peaceful_protest_majority,31,0.8611111111111112
+396,Jeonnam Ilbo,South_Korea_majority,17,1.0,Jeonnam Ilbo,Peaceful_protest_majority,17,1.0
+397,Prothom Alo,Bangladesh_majority,224,1.0,Prothom Alo,Peaceful_protest_majority,198,0.8839285714285714
+398,Firenze Today,Italy_majority,72,1.0,Firenze Today,Peaceful_protest_majority,69,0.9583333333333334
+399,Hart van Nederland,Netherlands_majority,26,1.0,Hart van Nederland,Peaceful_protest_majority,22,0.8461538461538461
+400,WA Today,Australia_majority,20,1.0,WA Today,Peaceful_protest_majority,17,0.85
+401,Diari De Girona,Spain_majority,28,1.0,Diari De Girona,Peaceful_protest_majority,28,1.0
+402,Diario De Ibiza,Spain_majority,16,1.0,Diario De Ibiza,Peaceful_protest_majority,16,1.0
+403,Diario De Leon,Spain_majority,41,1.0,Diario De Leon,Peaceful_protest_majority,38,0.926829268292683
+404,Diario De Malaga Y Andalucia,Spain_majority,42,1.0,Diario De Malaga Y Andalucia,Peaceful_protest_majority,39,0.9285714285714286
+405,Diario Informacion,Spain_majority,39,1.0,Diario Informacion,Peaceful_protest_majority,38,0.9743589743589743
+406,El Diario,Spain_majority,98,0.98,El Diario,Peaceful_protest_majority,87,0.87
+407,El Espanol,Spain_majority,17,1.0,El Espanol,Peaceful_protest_majority,14,0.8235294117647058
+408,El Norte De Castilla,Spain_majority,66,1.0,El Norte De Castilla,Peaceful_protest_majority,60,0.9090909090909091
+409,El Pais,Spain_majority,21,0.9130434782608695,El Pais,Peaceful_protest_majority,17,0.7391304347826086
+410,Elcomercio,Spain_majority,111,1.0,Elcomercio,Peaceful_protest_majority,110,0.990990990990991
+411,Salamanca Rtv Al Dia,Spain_majority,18,1.0,Salamanca Rtv Al Dia,Peaceful_protest_majority,18,1.0
+412,Dia a Dia,Panama_majority,28,1.0,Dia a Dia,Peaceful_protest_majority,27,0.9642857142857143
+413,La Estrella de Panama (Panama),Panama_majority,24,1.0,La Estrella de Panama (Panama),Peaceful_protest_majority,22,0.9166666666666666
+414,New Age (Bangladesh),Bangladesh_majority,177,1.0,New Age (Bangladesh),Peaceful_protest_majority,149,0.8418079096045198
+415,Australian Broadcasting Corporation News,Australia_majority,62,1.0,Australian Broadcasting Corporation News,Peaceful_protest_majority,38,0.6129032258064516
+416,Fight Back News,United_States_majority,15,1.0,Fight Back News,Peaceful_protest_majority,15,1.0
+417,Parma Today,Italy_majority,21,1.0,Parma Today,Peaceful_protest_majority,18,0.8571428571428571
+418,Seattle Times,United_States_majority,24,1.0,Seattle Times,Peaceful_protest_majority,23,0.9583333333333334
+419,ABC10 (San Diego),United_States_majority,26,1.0,ABC10 (San Diego),Peaceful_protest_majority,26,1.0
+420,NBC 7 San Diego,United_States_majority,18,1.0,NBC 7 San Diego,Peaceful_protest_majority,18,1.0
+421,Toronto Sun,Canada_majority,31,1.0,Toronto Sun,Peaceful_protest_majority,27,0.8709677419354839
+422,TRT Haber,Turkey_majority,19,1.0,TRT Haber,Change_to_group_activity_majority,19,1.0
+423,Bocholter-Borkener Volksblatt,Germany_majority,40,1.0,Bocholter-Borkener Volksblatt,Peaceful_protest_majority,33,0.825
+424,Cairns Post,Australia_majority,11,1.0,Cairns Post,Peaceful_protest_majority,11,1.0
+425,Vancouver Sun,Canada_majority,26,1.0,Vancouver Sun,Peaceful_protest_majority,22,0.8461538461538461
+426,Critica (Panama),Panama_majority,127,1.0,Critica (Panama),Peaceful_protest_majority,120,0.9448818897637795
+427,La Prensa Grafica,El_Salvador_majority,32,1.0,La Prensa Grafica,Peaceful_protest_majority,28,0.875
+428,Statesman Journal,United_States_majority,16,1.0,Statesman Journal,Peaceful_protest_majority,13,0.8125
+429,TribLive,United_States_majority,18,1.0,TribLive,Peaceful_protest_majority,18,1.0
+430,Zim Eye,Zimbabwe_majority,25,1.0,Zim Eye,Attack_majority,15,0.6
+431,Primo Numero,Italy_majority,27,1.0,Primo Numero,Peaceful_protest_majority,25,0.9259259259259259
+432,Brasil de Fato,Brazil_majority,14,1.0,Brasil de Fato,Peaceful_protest_majority,14,1.0
+433,Folha PE,Brazil_majority,27,1.0,Folha PE,Peaceful_protest_majority,26,0.9629629629629629
+434,WTOP Radio,United_States_majority,13,1.0,WTOP Radio,Peaceful_protest_majority,11,0.8461538461538461
+435,Brisbane Times,Australia_majority,25,1.0,Brisbane Times,Peaceful_protest_majority,18,0.72
+436,Il Giornale Di Calabria,Italy_majority,50,1.0,Il Giornale Di Calabria,Peaceful_protest_majority,50,1.0
+437,Los Andes (Peru),Peru_majority,43,1.0,Los Andes (Peru),Peaceful_protest_majority,37,0.8604651162790697
+438,Jeonbuk Ilbo,South_Korea_majority,26,1.0,Jeonbuk Ilbo,Peaceful_protest_majority,26,1.0
+439,CBS2 (Los Angeles),United_States_majority,41,1.0,CBS2 (Los Angeles),Peaceful_protest_majority,35,0.8536585365853658
+440,Palermo Today,Italy_majority,89,1.0,Palermo Today,Peaceful_protest_majority,84,0.9438202247191011
+441,Japan Demo Info,Japan_majority,188,1.0,Japan Demo Info,Peaceful_protest_majority,187,0.9946808510638298
+442,24.hu,Hungary_majority,23,1.0,24.hu,Peaceful_protest_majority,19,0.8260869565217391
+443,444.hu,Hungary_majority,18,1.0,444.hu,Peaceful_protest_majority,14,0.7777777777777778
+444,Jeju Ilbo,South_Korea_majority,24,1.0,Jeju Ilbo,Peaceful_protest_majority,24,1.0
+445,Gyeongnam Shinmun,South_Korea_majority,38,1.0,Gyeongnam Shinmun,Peaceful_protest_majority,38,1.0
+446,7News,Australia_majority,32,1.0,7News,Peaceful_protest_majority,26,0.8125
+447,NWZ Online,Germany_majority,39,1.0,NWZ Online,Peaceful_protest_majority,36,0.9230769230769231
+448,Il Tempo,Italy_majority,17,1.0,Il Tempo,Peaceful_protest_majority,15,0.8823529411764706
+449,Kieler Nachrichten,Germany_majority,47,1.0,Kieler Nachrichten,Peaceful_protest_majority,47,1.0
+450,Gonews,Italy_majority,113,1.0,Gonews,Peaceful_protest_majority,112,0.9911504424778761
+451,Rheinische Post,Germany_majority,105,1.0,Rheinische Post,Peaceful_protest_majority,84,0.8
+452,Oe24.At,Austria_majority,84,0.9767441860465116,Oe24.At,Peaceful_protest_majority,68,0.7906976744186046
+453,Kyodo News,Japan_majority,61,1.0,Kyodo News,Peaceful_protest_majority,56,0.9180327868852459
+454,Malpensa24,Italy_majority,48,1.0,Malpensa24,Peaceful_protest_majority,48,1.0
+455,Roma Today,Italy_majority,45,1.0,Roma Today,Peaceful_protest_majority,40,0.8888888888888888
+456,Philadelphia Inquirer,United_States_majority,12,1.0,Philadelphia Inquirer,Peaceful_protest_majority,12,1.0
+457,Il Cittadino Online,Italy_majority,17,1.0,Il Cittadino Online,Peaceful_protest_majority,17,1.0
+458,Agrigento Notizie,Italy_majority,41,1.0,Agrigento Notizie,Peaceful_protest_majority,38,0.926829268292683
+459,Free Malaysia Today,Malaysia_majority,20,1.0,Free Malaysia Today,Peaceful_protest_majority,14,0.7
+460,Southland Times,New_Zealand_majority,15,1.0,Southland Times,Peaceful_protest_majority,14,0.9333333333333333
+461,Make the Road New York,United_States_majority,22,1.0,Make the Road New York,Peaceful_protest_majority,21,0.9545454545454546
+462,Daily Mail,United_States_majority,13,0.9285714285714286,Daily Mail,Peaceful_protest_majority,13,0.9285714285714286
+463,NBC6 (Miami),United_States_majority,26,1.0,NBC6 (Miami),Peaceful_protest_majority,22,0.8461538461538461
+464,Miami Herald,United_States_majority,15,1.0,Miami Herald,Peaceful_protest_majority,11,0.7333333333333333
+465,KUSI,United_States_majority,27,1.0,KUSI,Peaceful_protest_majority,27,1.0
+466,Yahoo News,United_States_majority,11,0.7333333333333333,Yahoo News,Peaceful_protest_majority,13,0.8666666666666667
+467,Munhwa Ilbo,South_Korea_majority,26,1.0,Munhwa Ilbo,Peaceful_protest_majority,23,0.8846153846153846
+468,WJZ13,United_States_majority,29,1.0,WJZ13,Peaceful_protest_majority,29,1.0
+469,Taranaki Daily News,New_Zealand_majority,16,1.0,Taranaki Daily News,Peaceful_protest_majority,15,0.9375
+470,NBC4 (Washington D.C.),United_States_majority,11,1.0,NBC4 (Washington D.C.),Peaceful_protest_majority,11,1.0
+471,WCHS TV-8,United_States_majority,16,1.0,WCHS TV-8,Peaceful_protest_majority,16,1.0
+472,WKBN,United_States_majority,10,1.0,WKBN,Peaceful_protest_majority,9,0.9
+473,Abendzeitung Munchen,Germany_majority,60,1.0,Abendzeitung Munchen,Peaceful_protest_majority,53,0.8833333333333333
+474,SigmaLive,Cyprus_majority,55,1.0,SigmaLive,Peaceful_protest_majority,45,0.8181818181818182
+475,KATU,United_States_majority,31,1.0,KATU,Peaceful_protest_majority,29,0.9354838709677419
+476,WKOW27,United_States_majority,13,1.0,WKOW27,Peaceful_protest_majority,13,1.0
+477,WIBW-TV13,United_States_majority,12,1.0,WIBW-TV13,Peaceful_protest_majority,12,1.0
+478,WTAE4,United_States_majority,10,1.0,WTAE4,Peaceful_protest_majority,10,1.0
+479,KCCI8 News,United_States_majority,11,1.0,KCCI8 News,Peaceful_protest_majority,11,1.0
+480,WKYT,United_States_majority,10,1.0,WKYT,Peaceful_protest_majority,10,1.0
+481,News 4 San Antonio,United_States_majority,12,1.0,News 4 San Antonio,Peaceful_protest_majority,12,1.0
+482,Indo-Asian News Service,India_majority,88,1.0,Indo-Asian News Service,Peaceful_protest_majority,57,0.6477272727272727
+483,Arizona Central,United_States_majority,29,1.0,Arizona Central,Peaceful_protest_majority,27,0.9310344827586207
+484,Tennessean,United_States_majority,10,1.0,Tennessean,Peaceful_protest_majority,9,0.9
+485,ABC6 (Columbus),United_States_majority,25,1.0,ABC6 (Columbus),Peaceful_protest_majority,24,0.96
+486,Colorado Times Recorder,United_States_majority,10,1.0,Colorado Times Recorder,Peaceful_protest_majority,9,0.9
+487,NBC4 (Columbus),United_States_majority,11,1.0,NBC4 (Columbus),Peaceful_protest_majority,11,1.0
+488,WCSH6,United_States_majority,12,1.0,WCSH6,Peaceful_protest_majority,12,1.0
+489,Channel 8 WMTW,United_States_majority,11,1.0,Channel 8 WMTW,Peaceful_protest_majority,11,1.0
+490,WCAX Channel 3,United_States_majority,15,1.0,WCAX Channel 3,Peaceful_protest_majority,14,0.9333333333333333
+491,WNYT Channel 13,United_States_majority,11,1.0,WNYT Channel 13,Peaceful_protest_majority,11,1.0
+492,Khaosod,Thailand_majority,30,1.0,Khaosod,Peaceful_protest_majority,29,0.9666666666666667
+493,Prachatai,Thailand_majority,66,1.0,Prachatai,Peaceful_protest_majority,59,0.8939393939393939
+494,Danas,Serbia_majority,58,1.0,Danas,Peaceful_protest_majority,57,0.9827586206896551
+495,St. Louis Post-Dispatch,United_States_majority,20,1.0,St. Louis Post-Dispatch,Peaceful_protest_majority,17,0.85
+496,Fox2 (St. Louis),United_States_majority,25,1.0,Fox2 (St. Louis),Peaceful_protest_majority,24,0.96
+497,Daily Mail (United Kingdom),United_Kingdom_majority,21,0.65625,Daily Mail (United Kingdom),Peaceful_protest_majority,25,0.78125
+498,KMOV4,United_States_majority,20,1.0,KMOV4,Peaceful_protest_majority,19,0.95
+499,Fresno Bee,United_States_majority,20,1.0,Fresno Bee,Peaceful_protest_majority,20,1.0
+500,ABC7 Chicago,United_States_majority,29,1.0,ABC7 Chicago,Peaceful_protest_majority,28,0.9655172413793104
+501,CBS12 (Chico),United_States_majority,19,1.0,CBS12 (Chico),Peaceful_protest_majority,18,0.9473684210526315
+502,Pressian,South_Korea_majority,45,0.9782608695652174,Pressian,Peaceful_protest_majority,43,0.9347826086956522
+503,Kangwon Ilbo,South_Korea_majority,14,1.0,Kangwon Ilbo,Peaceful_protest_majority,14,1.0
+504,KTUL,United_States_majority,10,1.0,KTUL,Peaceful_protest_majority,9,0.9
+505,Daily Breeze,United_States_majority,13,1.0,Daily Breeze,Peaceful_protest_majority,13,1.0
+506,Oklahoma's News 4,United_States_majority,13,1.0,Oklahoma's News 4,Peaceful_protest_majority,11,0.8461538461538461
+507,Tiempo Sur (Argentina),Argentina_majority,69,0.971830985915493,Tiempo Sur (Argentina),Peaceful_protest_majority,63,0.8873239436619719
+508,Aachener Zeitung,Germany_majority,66,0.9850746268656716,Aachener Zeitung,Peaceful_protest_majority,55,0.8208955223880597
+509,Polizei Bayern,Germany_majority,54,0.9818181818181818,Polizei Bayern,Peaceful_protest_majority,50,0.9090909090909091
+510,Dernieres Nouvelles d'Alsace,France_majority,21,1.0,Dernieres Nouvelles d'Alsace,Peaceful_protest_majority,17,0.8095238095238095
+511,Var-Matin,France_majority,43,1.0,Var-Matin,Peaceful_protest_majority,43,1.0
+512,London Free Press,Canada_majority,24,1.0,London Free Press,Peaceful_protest_majority,19,0.7916666666666666
+513,Los Tiempos (Bolivia),Bolivia_majority,140,1.0,Los Tiempos (Bolivia),Peaceful_protest_majority,127,0.9071428571428571
+514,KRQE,United_States_majority,52,1.0,KRQE,Peaceful_protest_majority,49,0.9423076923076923
+515,Kech24,Morocco_majority,28,0.9655172413793104,Kech24,Peaceful_protest_majority,26,0.896551724137931
+516,Shimbun Akahata,Japan_majority,69,1.0,Shimbun Akahata,Peaceful_protest_majority,66,0.9565217391304348
+517,Kyongbuk Ilbo,South_Korea_majority,21,1.0,Kyongbuk Ilbo,Peaceful_protest_majority,21,1.0
+518,Lankadeepa,Sri_Lanka_majority,92,1.0,Lankadeepa,Peaceful_protest_majority,90,0.9782608695652174
+519,Las Vegas Review-Journal,United_States_majority,34,1.0,Las Vegas Review-Journal,Peaceful_protest_majority,32,0.9411764705882353
+520,CBS17,United_States_majority,11,1.0,CBS17,Peaceful_protest_majority,11,1.0
+521,Marin Independent Journal,United_States_majority,13,1.0,Marin Independent Journal,Peaceful_protest_majority,11,0.8461538461538461
+522,San Diego Union-Tribune,United_States_majority,27,1.0,San Diego Union-Tribune,Peaceful_protest_majority,26,0.9629629629629629
+523,Tahiti Infos,French_Polynesia_majority,15,0.7894736842105263,Tahiti Infos,Peaceful_protest_majority,16,0.8421052631578947
+524,CBS13 (Sacramento),United_States_majority,16,1.0,CBS13 (Sacramento),Peaceful_protest_majority,16,1.0
+525,KGET17,United_States_majority,13,1.0,KGET17,Peaceful_protest_majority,13,1.0
+526,Chico Enterprise-Record,United_States_majority,12,1.0,Chico Enterprise-Record,Peaceful_protest_majority,12,1.0
+527,Santa Fe New Mexican,United_States_majority,15,1.0,Santa Fe New Mexican,Peaceful_protest_majority,15,1.0
+528,Nextquotidiano,Italy_majority,31,1.0,Nextquotidiano,Peaceful_protest_majority,27,0.8709677419354839
+529,Today,Italy_majority,74,1.0,Today,Peaceful_protest_majority,50,0.6756756756756757
+530,Index.hr,Croatia_majority,44,1.0,Index.hr,Peaceful_protest_majority,43,0.9772727272727273
+531,Postimees,Estonia_majority,13,0.9285714285714286,Postimees,Peaceful_protest_majority,12,0.8571428571428571
+532,Znak,Russia_majority,10,1.0,Znak,Peaceful_protest_majority,6,0.6
+533,Regina Leader-Post,Canada_majority,25,1.0,Regina Leader-Post,Peaceful_protest_majority,21,0.84
+534,Mercury News,United_States_majority,21,1.0,Mercury News,Peaceful_protest_majority,16,0.7619047619047619
+535,Record Searchlight,United_States_majority,10,1.0,Record Searchlight,Peaceful_protest_majority,10,1.0
+536,ODT (New Zealand),New_Zealand_majority,12,1.0,ODT (New Zealand),Peaceful_protest_majority,11,0.9166666666666666
+537,Shz,Germany_majority,34,0.9714285714285714,Shz,Peaceful_protest_majority,31,0.8857142857142857
+538,Oberosterreichische Nachrichten,Austria_majority,33,1.0,Oberosterreichische Nachrichten,Peaceful_protest_majority,25,0.7575757575757576
+539,Hespress,Morocco_majority,155,1.0,Hespress,Peaceful_protest_majority,133,0.8580645161290322
+540,National Post,Canada_majority,18,1.0,National Post,Peaceful_protest_majority,11,0.6111111111111112
+541,Orange County Register,United_States_majority,30,1.0,Orange County Register,Peaceful_protest_majority,26,0.8666666666666667
+542,Dallas Morning News,United_States_majority,10,1.0,Dallas Morning News,Peaceful_protest_majority,8,0.8
+543,Fox4 (Dallas),United_States_majority,13,1.0,Fox4 (Dallas),Peaceful_protest_majority,12,0.9230769230769231
+544,Edmonton Sun,Canada_majority,10,1.0,Edmonton Sun,Peaceful_protest_majority,7,0.7
+545,WGN Channel 9,United_States_majority,23,1.0,WGN Channel 9,Peaceful_protest_majority,20,0.8695652173913043
+546,Le Courrier Picard,France_majority,27,1.0,Le Courrier Picard,Peaceful_protest_majority,25,0.9259259259259259
+547,Reggionline,Italy_majority,76,1.0,Reggionline,Peaceful_protest_majority,74,0.9736842105263158
+548,Prima Milano Ovest,Italy_majority,34,1.0,Prima Milano Ovest,Peaceful_protest_majority,33,0.9705882352941176
+549,Goud,Morocco_majority,10,0.9090909090909091,Goud,Peaceful_protest_majority,11,1.0
+550,WCVB Channel 5,United_States_majority,18,1.0,WCVB Channel 5,Peaceful_protest_majority,18,1.0
+551,WHDH Channel 7,United_States_majority,19,1.0,WHDH Channel 7,Peaceful_protest_majority,19,1.0
+552,NBC10 Boston,United_States_majority,13,1.0,NBC10 Boston,Peaceful_protest_majority,12,0.9230769230769231
+553,Prima Monza,Italy_majority,30,1.0,Prima Monza,Peaceful_protest_majority,30,1.0
+554,Dnes.bg,Bulgaria_majority,55,1.0,Dnes.bg,Peaceful_protest_majority,53,0.9636363636363636
+555,Corriere Di Taranto,Italy_majority,13,1.0,Corriere Di Taranto,Peaceful_protest_majority,13,1.0
+556,Global Project,Italy_majority,79,1.0,Global Project,Peaceful_protest_majority,77,0.9746835443037974
+557,ABC7 (Los Angeles),United_States_majority,26,1.0,ABC7 (Los Angeles),Peaceful_protest_majority,24,0.9230769230769231
+558,Fox40 (Sacramento),United_States_majority,28,1.0,Fox40 (Sacramento),Peaceful_protest_majority,25,0.8928571428571429
+559,Le Soleil (Canada),Canada_majority,11,1.0,Le Soleil (Canada),Peaceful_protest_majority,8,0.7272727272727273
+560,WABI-TV5,United_States_majority,19,1.0,WABI-TV5,Peaceful_protest_majority,18,0.9473684210526315
+561,Folha de Boa Vista,Brazil_majority,17,1.0,Folha de Boa Vista,Peaceful_protest_majority,17,1.0
+562,ABC13 (Houston),United_States_majority,13,1.0,ABC13 (Houston),Peaceful_protest_majority,12,0.9230769230769231
+563,East Idaho News,United_States_majority,12,1.0,East Idaho News,Peaceful_protest_majority,12,1.0
+564,Rai News,Italy_majority,194,1.0,Rai News,Peaceful_protest_majority,166,0.8556701030927835
+565,Controradio,Italy_majority,93,1.0,Controradio,Peaceful_protest_majority,90,0.967741935483871
+566,Bari Today,Italy_majority,84,1.0,Bari Today,Peaceful_protest_majority,83,0.9880952380952381
+567,Cronache Maceratesi,Italy_majority,30,1.0,Cronache Maceratesi,Peaceful_protest_majority,30,1.0
+568,New Nation (Bangladesh),Bangladesh_majority,131,1.0,New Nation (Bangladesh),Peaceful_protest_majority,115,0.8778625954198473
+569,News12 (Westchester),United_States_majority,21,1.0,News12 (Westchester),Peaceful_protest_majority,21,1.0
+570,Corriere Del Mezzogiorno,Italy_majority,15,1.0,Corriere Del Mezzogiorno,Peaceful_protest_majority,15,1.0
+571,TG COM,Italy_majority,67,1.0,TG COM,Peaceful_protest_majority,55,0.8208955223880597
+572,Il Giornale Del Molise,Italy_majority,32,1.0,Il Giornale Del Molise,Peaceful_protest_majority,32,1.0
+573,Bakersfield,United_States_majority,10,1.0,Bakersfield,Peaceful_protest_majority,10,1.0
+574,Channel 3 (Santa Barbara),United_States_majority,15,1.0,Channel 3 (Santa Barbara),Peaceful_protest_majority,15,1.0
+575,KOMO4,United_States_majority,22,1.0,KOMO4,Peaceful_protest_majority,21,0.9545454545454546
+576,WTEN Channel 10,United_States_majority,20,1.0,WTEN Channel 10,Peaceful_protest_majority,19,0.95
+577,La Nuova Venezia,Italy_majority,60,1.0,La Nuova Venezia,Peaceful_protest_majority,57,0.95
+578,KCRA3,United_States_majority,17,1.0,KCRA3,Peaceful_protest_majority,17,1.0
+579,ABC11,United_States_majority,17,1.0,ABC11,Peaceful_protest_majority,14,0.8235294117647058
+580,KRCR ABC7,United_States_majority,14,1.0,KRCR ABC7,Peaceful_protest_majority,14,1.0
+581,Shaw Local,United_States_majority,11,1.0,Shaw Local,Peaceful_protest_majority,11,1.0
+582,Union,United_States_majority,10,1.0,Union,Peaceful_protest_majority,10,1.0
+583,WWAY-TV 3,United_States_majority,10,1.0,WWAY-TV 3,Peaceful_protest_majority,9,0.9
+584,Trento Today,Italy_majority,28,1.0,Trento Today,Peaceful_protest_majority,26,0.9285714285714286
+585,Udine Today,Italy_majority,33,1.0,Udine Today,Peaceful_protest_majority,32,0.9696969696969697
+586,Forza Nuova,Italy_majority,37,1.0,Forza Nuova,Peaceful_protest_majority,35,0.9459459459459459
+587,NRT News,Iraq_majority,12,1.0,NRT News,Peaceful_protest_majority,9,0.75
+588,Frankenpost,Germany_majority,36,1.0,Frankenpost,Peaceful_protest_majority,33,0.9166666666666666
+589,L'Acadie Nouvelle,Canada_majority,13,1.0,L'Acadie Nouvelle,Peaceful_protest_majority,10,0.7692307692307693
+590,The Province (Canada),Canada_majority,26,1.0,The Province (Canada),Peaceful_protest_majority,22,0.8461538461538461
+591,Green Left,Australia_majority,13,1.0,Green Left,Peaceful_protest_majority,13,1.0
+592,Positano News,Italy_majority,68,1.0,Positano News,Peaceful_protest_majority,64,0.9411764705882353
+593,2a News,Italy_majority,22,1.0,2a News,Peaceful_protest_majority,20,0.9090909090909091
+594,Al Aoual,Morocco_majority,37,1.0,Al Aoual,Peaceful_protest_majority,35,0.9459459459459459
+595,Alyaoum24,Morocco_majority,47,1.0,Alyaoum24,Peaceful_protest_majority,39,0.8297872340425532
+596,Noon Press,Morocco_majority,23,1.0,Noon Press,Peaceful_protest_majority,19,0.8260869565217391
+597,Tetouan Press,Morocco_majority,12,0.9230769230769231,Tetouan Press,Peaceful_protest_majority,13,1.0
+598,Buffalo News,United_States_majority,15,1.0,Buffalo News,Peaceful_protest_majority,15,1.0
+599,WBEN 930,United_States_majority,11,1.0,WBEN 930,Peaceful_protest_majority,11,1.0
+600,Fox32,United_States_majority,19,1.0,Fox32,Peaceful_protest_majority,19,1.0
+601,La Hora (Guatemala),Guatemala_majority,55,1.0,La Hora (Guatemala),Peaceful_protest_majority,41,0.7454545454545455
+602,Tiempo,Mexico_majority,21,1.0,Tiempo,Peaceful_protest_majority,16,0.7619047619047619
+603,MTV Uutiset,Finland_majority,23,1.0,MTV Uutiset,Peaceful_protest_majority,15,0.6521739130434783
+604,OVD Info,Russia_majority,32,1.0,OVD Info,Protest_with_intervention_majority,23,0.71875
+605,Yle,Finland_majority,37,1.0,Yle,Peaceful_protest_majority,27,0.7297297297297297
+606,Markische Oderzeitung,Germany_majority,74,1.0,Markische Oderzeitung,Peaceful_protest_majority,67,0.9054054054054054
+607,Het Nieuwsblad,Belgium_majority,56,1.0,Het Nieuwsblad,Peaceful_protest_majority,44,0.7857142857142857
+608,L'Independant,France_majority,80,1.0,L'Independant,Peaceful_protest_majority,80,1.0
+609,Le Republicain Lorrain,France_majority,33,1.0,Le Republicain Lorrain,Peaceful_protest_majority,33,1.0
+610,Redaktionsnetzwerk Deutschland,Germany_majority,286,0.9828178694158075,Redaktionsnetzwerk Deutschland,Peaceful_protest_majority,233,0.8006872852233677
+611,Swissinfo,Switzerland_majority,53,1.0,Swissinfo,Peaceful_protest_majority,41,0.7735849056603774
+612,Oakland Press,United_States_majority,11,1.0,Oakland Press,Peaceful_protest_majority,11,1.0
+613,On the Scene,United_States_majority,12,1.0,On the Scene,Peaceful_protest_majority,11,0.9166666666666666
+614,Limburgs,Netherlands_majority,34,1.0,Limburgs,Peaceful_protest_majority,23,0.6764705882352942
+615,9News,Australia_majority,27,1.0,9News,Peaceful_protest_majority,22,0.8148148148148148
+616,Kurier,Austria_majority,24,1.0,Kurier,Peaceful_protest_majority,15,0.625
+617,Monza Today,Italy_majority,24,1.0,Monza Today,Peaceful_protest_majority,24,1.0
+618,La Verdad,Mexico_majority,41,1.0,La Verdad,Peaceful_protest_majority,27,0.6585365853658537
+619,La Prensa (Argentina),Argentina_majority,32,1.0,La Prensa (Argentina),Peaceful_protest_majority,31,0.96875
+620,La Gaceta,Argentina_majority,96,1.0,La Gaceta,Peaceful_protest_majority,92,0.9583333333333334
+621,Portal T5,Brazil_majority,33,1.0,Portal T5,Peaceful_protest_majority,32,0.9696969696969697
+622,Setopati,Nepal_majority,126,1.0,Setopati,Peaceful_protest_majority,103,0.8174603174603174
+623,Daily Herald (Arlington Heights),United_States_majority,22,1.0,Daily Herald (Arlington Heights),Peaceful_protest_majority,22,1.0
+624,CBS2 (New York),United_States_majority,28,1.0,CBS2 (New York),Peaceful_protest_majority,26,0.9285714285714286
+625,Channel 2 (Buffalo),United_States_majority,16,1.0,Channel 2 (Buffalo),Peaceful_protest_majority,15,0.9375
+626,La Nazione,Italy_majority,26,1.0,La Nazione,Peaceful_protest_majority,26,1.0
+627,Le Point,France_majority,42,1.0,Le Point,Peaceful_protest_majority,36,0.8571428571428571
+628,Prima Lecco,Italy_majority,36,1.0,Prima Lecco,Peaceful_protest_majority,36,1.0
+629,Cronica (Ecuador),Ecuador_majority,12,1.0,Cronica (Ecuador),Peaceful_protest_majority,12,1.0
+630,San Francisco Examiner,United_States_majority,14,1.0,San Francisco Examiner,Peaceful_protest_majority,14,1.0
+631,Indybay,United_States_majority,29,1.0,Indybay,Peaceful_protest_majority,28,0.9655172413793104
+632,920 News Now,United_States_majority,23,1.0,920 News Now,Peaceful_protest_majority,21,0.9130434782608695
+633,ANSA,Italy_majority,133,1.0,ANSA,Peaceful_protest_majority,128,0.9624060150375939
+634,Riviera24,Italy_majority,58,1.0,Riviera24,Peaceful_protest_majority,58,1.0
+635,Verona Sera,Italy_majority,50,1.0,Verona Sera,Peaceful_protest_majority,50,1.0
+636,Mlada Fronta Dnes,Czech_Republic_majority,14,0.9333333333333333,Mlada Fronta Dnes,Peaceful_protest_majority,14,0.9333333333333333
+637,WBAL-TV 11,United_States_majority,15,1.0,WBAL-TV 11,Peaceful_protest_majority,14,0.9333333333333333
+638,Northern Territory News,Australia_majority,18,1.0,Northern Territory News,Peaceful_protest_majority,15,0.8333333333333334
+639,20 Minutes,France_majority,40,0.975609756097561,20 Minutes,Peaceful_protest_majority,34,0.8292682926829268
+640,Casa Pound Italia,Italy_majority,75,1.0,Casa Pound Italia,Peaceful_protest_majority,73,0.9733333333333334
+641,Sudinfo.be,Belgium_majority,44,0.9777777777777777,Sudinfo.be,Peaceful_protest_majority,36,0.8
+642,Denik,Czech_Republic_majority,67,1.0,Denik,Peaceful_protest_majority,65,0.9701492537313433
+643,Novinky,Czech_Republic_majority,23,0.9583333333333334,Novinky,Peaceful_protest_majority,23,0.9583333333333334
+644,CBS2 (Chicago),United_States_majority,30,1.0,CBS2 (Chicago),Peaceful_protest_majority,30,1.0
+645,Republican-American,United_States_majority,11,1.0,Republican-American,Peaceful_protest_majority,11,1.0
+646,TV8,Moldova_majority,35,1.0,TV8,Peaceful_protest_majority,31,0.8857142857142857
+647,Le Journal de Montreal,Canada_majority,26,1.0,Le Journal de Montreal,Peaceful_protest_majority,23,0.8846153846153846
+648,Chicago Sun-Times,United_States_majority,17,1.0,Chicago Sun-Times,Peaceful_protest_majority,15,0.8823529411764706
+649,News 8 (Rochester),United_States_majority,19,1.0,News 8 (Rochester),Peaceful_protest_majority,19,1.0
+650,Akher Saa,Algeria_majority,38,1.0,Akher Saa,Peaceful_protest_majority,38,1.0
+651,R7,Brazil_majority,54,1.0,R7,Peaceful_protest_majority,39,0.7222222222222222
+652,Estado de Minas,Brazil_majority,128,1.0,Estado de Minas,Peaceful_protest_majority,127,0.9921875
+653,Philenews,Cyprus_majority,119,1.0,Philenews,Peaceful_protest_majority,95,0.7983193277310925
+654,Rote Fahne,Germany_majority,36,0.972972972972973,Rote Fahne,Peaceful_protest_majority,35,0.9459459459459459
+655,1010WINS,United_States_majority,15,1.0,1010WINS,Peaceful_protest_majority,13,0.8666666666666667
+656,Tripura Infoway,India_majority,72,1.0,Tripura Infoway,Peaceful_protest_majority,50,0.6944444444444444
+657,Merce,Hungary_majority,13,1.0,Merce,Peaceful_protest_majority,11,0.8461538461538461
+658,Leeuwarder Courant,Netherlands_majority,31,1.0,Leeuwarder Courant,Peaceful_protest_majority,26,0.8387096774193549
+659,Milano Post,Italy_majority,20,1.0,Milano Post,Peaceful_protest_majority,18,0.9
+660,Partisaani,Finland_majority,16,1.0,Partisaani,Peaceful_protest_majority,13,0.8125
+661,Ceske Noviny,Czech_Republic_majority,48,0.9795918367346939,Ceske Noviny,Peaceful_protest_majority,44,0.8979591836734694
+662,Slobodna Dalmacija,Croatia_majority,13,1.0,Slobodna Dalmacija,Peaceful_protest_majority,13,1.0
+663,Devon Live,United_Kingdom_majority,12,1.0,Devon Live,Peaceful_protest_majority,8,0.6666666666666666
+664,L'Adigetto,Italy_majority,20,1.0,L'Adigetto,Peaceful_protest_majority,19,0.95
+665,Treviso Today,Italy_majority,56,1.0,Treviso Today,Peaceful_protest_majority,50,0.8928571428571429
+666,Fox5 (Washington D.C.),United_States_majority,14,1.0,Fox5 (Washington D.C.),Peaceful_protest_majority,13,0.9285714285714286
+667,Airdrie Today,Canada_majority,15,1.0,Airdrie Today,Peaceful_protest_majority,14,0.9333333333333333
+668,Messinaora,Italy_majority,13,1.0,Messinaora,Peaceful_protest_majority,12,0.9230769230769231
+669,FLC CGIL,Italy_majority,62,1.0,FLC CGIL,Peaceful_protest_majority,61,0.9838709677419355
+670,Liberta,Italy_majority,23,1.0,Liberta,Peaceful_protest_majority,23,1.0
+671,Tuttoggi,Italy_majority,43,1.0,Tuttoggi,Peaceful_protest_majority,42,0.9767441860465116
+672,Agrigento Oggi,Italy_majority,25,1.0,Agrigento Oggi,Peaceful_protest_majority,21,0.84
+673,Pisa Today,Italy_majority,39,1.0,Pisa Today,Peaceful_protest_majority,39,1.0
+674,The Australian,Australia_majority,43,1.0,The Australian,Peaceful_protest_majority,28,0.6511627906976745
+675,Sydney Morning Herald,Australia_majority,23,1.0,Sydney Morning Herald,Peaceful_protest_majority,16,0.6956521739130435
+676,Tunisie Numerique,Tunisia_majority,42,0.9767441860465116,Tunisie Numerique,Peaceful_protest_majority,37,0.8604651162790697
+677,Yabiladi,Morocco_majority,8,0.8,Yabiladi,Peaceful_protest_majority,8,0.8
+678,Agora RN,Brazil_majority,28,1.0,Agora RN,Peaceful_protest_majority,28,1.0
+679,La Opinion (Colombia),Colombia_majority,36,0.9473684210526315,La Opinion (Colombia),Peaceful_protest_majority,31,0.8157894736842105
+680,Bangkok Post,Thailand_majority,16,0.9411764705882353,Bangkok Post,Peaceful_protest_majority,12,0.7058823529411765
+681,Thai Rath,Thailand_majority,38,1.0,Thai Rath,Peaceful_protest_majority,32,0.8421052631578947
+682,ERR,Estonia_majority,12,1.0,ERR,Peaceful_protest_majority,11,0.9166666666666666
+683,Le Monde,France_majority,26,0.9629629629629629,Le Monde,Peaceful_protest_majority,24,0.8888888888888888
+684,Il Giorno,Italy_majority,15,1.0,Il Giorno,Peaceful_protest_majority,15,1.0
+685,Ta Kung Pao,China_majority,12,1.0,Ta Kung Pao,Peaceful_protest_majority,10,0.8333333333333334
+686,Le Soir d'Algerie,Algeria_majority,21,1.0,Le Soir d'Algerie,Peaceful_protest_majority,21,1.0
+687,Portal do Holanda,Brazil_majority,50,1.0,Portal do Holanda,Peaceful_protest_majority,47,0.94
+688,24kurier,Poland_majority,12,1.0,24kurier,Peaceful_protest_majority,12,1.0
+689,Quotidiano Di Sicilia,Italy_majority,55,1.0,Quotidiano Di Sicilia,Peaceful_protest_majority,47,0.8545454545454545
+690,Lakome,Morocco_majority,25,1.0,Lakome,Peaceful_protest_majority,24,0.96
+691,7x7,Russia_majority,10,1.0,7x7,Peaceful_protest_majority,9,0.9
+692,Total Croatia News,Croatia_majority,11,1.0,Total Croatia News,Peaceful_protest_majority,11,1.0
+693,C'est la Greve,France_majority,135,1.0,C'est la Greve,Peaceful_protest_majority,132,0.9777777777777777
+694,WJXT,United_States_majority,14,1.0,WJXT,Peaceful_protest_majority,14,1.0
+695,PIX11,United_States_majority,26,1.0,PIX11,Peaceful_protest_majority,26,1.0
+696,El Carabobeno,Venezuela_majority,72,1.0,El Carabobeno,Peaceful_protest_majority,68,0.9444444444444444
+697,News1st (Sri Lanka),Sri_Lanka_majority,94,1.0,News1st (Sri Lanka),Peaceful_protest_majority,88,0.9361702127659575
+698,Solinger-Tageblatt,Germany_majority,19,1.0,Solinger-Tageblatt,Peaceful_protest_majority,15,0.7894736842105263
+699,NewsChannel 8 (Tampa),United_States_majority,21,1.0,NewsChannel 8 (Tampa),Peaceful_protest_majority,21,1.0
+700,KCTV5,United_States_majority,11,1.0,KCTV5,Peaceful_protest_majority,10,0.9090909090909091
+701,Sangai Express,India_majority,38,1.0,Sangai Express,Peaceful_protest_majority,33,0.868421052631579
+702,E-Pao,India_majority,38,1.0,E-Pao,Peaceful_protest_majority,35,0.9210526315789473
+703,Activatica,Russia_majority,37,1.0,Activatica,Peaceful_protest_majority,28,0.7567567567567568
+704,Republika.mk,North_Macedonia_majority,12,1.0,Republika.mk,Peaceful_protest_majority,11,0.9166666666666666
+705,CM Journal,Portugal_majority,49,0.9607843137254902,CM Journal,Peaceful_protest_majority,49,0.9607843137254902
+706,La Nouvelle Gazette,Belgium_majority,55,0.9821428571428571,La Nouvelle Gazette,Peaceful_protest_majority,56,1.0
+707,El Watan (Algeria),Algeria_majority,39,1.0,El Watan (Algeria),Peaceful_protest_majority,37,0.9487179487179487
+708,Salt Lake Tribune,United_States_majority,14,1.0,Salt Lake Tribune,Peaceful_protest_majority,13,0.9285714285714286
+709,Il Cittadino Mb,Italy_majority,31,1.0,Il Cittadino Mb,Peaceful_protest_majority,30,0.967741935483871
+710,Cesena Today,Italy_majority,27,1.0,Cesena Today,Peaceful_protest_majority,26,0.9629629629629629
+711,Diario De Mallorca,Spain_majority,35,1.0,Diario De Mallorca,Peaceful_protest_majority,30,0.8571428571428571
+712,Action Francaise,France_majority,19,1.0,Action Francaise,Peaceful_protest_majority,18,0.9473684210526315
+713,Articolo 21,Italy_majority,13,1.0,Articolo 21,Violent_demonstration_majority,9,0.6923076923076923
+714,Diario De Cuyo,Argentina_majority,81,1.0,Diario De Cuyo,Peaceful_protest_majority,74,0.9135802469135802
+715,Press Photos Denmark,Denmark_majority,19,1.0,Press Photos Denmark,Peaceful_protest_majority,17,0.8947368421052632
+716,Infooggi,Italy_majority,31,1.0,Infooggi,Peaceful_protest_majority,30,0.967741935483871
+717,Oggi Notizie,Italy_majority,35,1.0,Oggi Notizie,Peaceful_protest_majority,34,0.9714285714285714
+718,AM New York,United_States_majority,45,1.0,AM New York,Peaceful_protest_majority,43,0.9555555555555556
+719,Providence Journal,United_States_majority,11,1.0,Providence Journal,Peaceful_protest_majority,11,1.0
+720,Thinakkural,Sri_Lanka_majority,16,1.0,Thinakkural,Peaceful_protest_majority,12,0.75
+721,Il Piccolo,Italy_majority,25,1.0,Il Piccolo,Peaceful_protest_majority,25,1.0
+722,Cronache Ancona,Italy_majority,65,1.0,Cronache Ancona,Peaceful_protest_majority,63,0.9692307692307692
+723,Metro Toluca,Mexico_majority,10,1.0,Metro Toluca,Peaceful_protest_majority,9,0.9
+724,El Proceso,Mexico_majority,20,1.0,El Proceso,Peaceful_protest_majority,13,0.65
+725,Agora.md,Moldova_majority,22,1.0,Agora.md,Peaceful_protest_majority,16,0.7272727272727273
+726,Il Quotidiano Italiano,Italy_majority,15,1.0,Il Quotidiano Italiano,Peaceful_protest_majority,15,1.0
+727,NewsChannel 21,United_States_majority,19,1.0,NewsChannel 21,Peaceful_protest_majority,18,0.9473684210526315
+728,Channel 8 (Las Vegas),United_States_majority,18,1.0,Channel 8 (Las Vegas),Peaceful_protest_majority,18,1.0
+729,National Nurses United,United_States_majority,29,1.0,National Nurses United,Peaceful_protest_majority,29,1.0
+730,Expreso,Ecuador_majority,41,1.0,Expreso,Peaceful_protest_majority,37,0.9024390243902439
+731,Metropolisweb,Italy_majority,16,1.0,Metropolisweb,Peaceful_protest_majority,16,1.0
+732,KPRF,Russia_majority,59,1.0,KPRF,Peaceful_protest_majority,55,0.9322033898305084
+733,Teraz,Slovakia_majority,25,0.9615384615384616,Teraz,Peaceful_protest_majority,23,0.8846153846153846
+734,ABC8 (Richmond),United_States_majority,11,1.0,ABC8 (Richmond),Peaceful_protest_majority,11,1.0
+735,KEZI9,United_States_majority,11,1.0,KEZI9,Peaceful_protest_majority,11,1.0
+736,Virakesari,Sri_Lanka_majority,163,1.0,Virakesari,Peaceful_protest_majority,156,0.9570552147239264
+737,Aosta Oggi,Italy_majority,16,1.0,Aosta Oggi,Peaceful_protest_majority,16,1.0
+738,Opinion (Bolivia),Bolivia_majority,45,1.0,Opinion (Bolivia),Peaceful_protest_majority,41,0.9111111111111111
+739,El Diario Montanes,Spain_majority,26,1.0,El Diario Montanes,Peaceful_protest_majority,26,1.0
+740,Suddeutsche Zeitung,Germany_majority,579,1.0,Suddeutsche Zeitung,Peaceful_protest_majority,511,0.8825561312607945
+741,Diario El Chubut,Argentina_majority,92,1.0,Diario El Chubut,Peaceful_protest_majority,92,1.0
+742,Digi24,Romania_majority,81,0.9878048780487805,Digi24,Peaceful_protest_majority,62,0.7560975609756098
+743,Polizei Thuringen,Germany_majority,54,1.0,Polizei Thuringen,Peaceful_protest_majority,51,0.9444444444444444
+744,Radio Television Espanola,Spain_majority,61,1.0,Radio Television Espanola,Peaceful_protest_majority,58,0.9508196721311475
+745,Fox4 Kansas City,United_States_majority,18,1.0,Fox4 Kansas City,Peaceful_protest_majority,18,1.0
+746,Modesto Bee,United_States_majority,12,1.0,Modesto Bee,Peaceful_protest_majority,12,1.0
+747,WBZ Channel 4,United_States_majority,17,1.0,WBZ Channel 4,Peaceful_protest_majority,16,0.9411764705882353
+748,Hiru News,Sri_Lanka_majority,148,1.0,Hiru News,Peaceful_protest_majority,140,0.9459459459459459
+749,Al Mirbad,Iraq_majority,128,1.0,Al Mirbad,Peaceful_protest_majority,101,0.7890625
+750,La Vanguardia,Spain_majority,42,0.9545454545454546,La Vanguardia,Peaceful_protest_majority,31,0.7045454545454546
+751,Times of Malta,Malta_majority,16,1.0,Times of Malta,Peaceful_protest_majority,12,0.75
+752,CBS4 (Denver),United_States_majority,23,1.0,CBS4 (Denver),Peaceful_protest_majority,22,0.9565217391304348
+753,Fox31,United_States_majority,12,1.0,Fox31,Peaceful_protest_majority,10,0.8333333333333334
+754,Deccan Herald,India_majority,68,1.0,Deccan Herald,Peaceful_protest_majority,50,0.7352941176470589
+755,CBS4 (Miami),United_States_majority,20,1.0,CBS4 (Miami),Peaceful_protest_majority,19,0.95
+756,Local 10 (Miami),United_States_majority,10,1.0,Local 10 (Miami),Peaceful_protest_majority,9,0.9
+757,Protests in the days of Corona,Israel_majority,26,1.0,Protests in the days of Corona,Peaceful_protest_majority,25,0.9615384615384616
+758,Helsingin Sanomat,Finland_majority,15,1.0,Helsingin Sanomat,Peaceful_protest_majority,10,0.6666666666666666
+759,Helsingborgs Dagblad,Sweden_majority,17,1.0,Helsingborgs Dagblad,Peaceful_protest_majority,16,0.9411764705882353
+760,NRK,Norway_majority,12,1.0,NRK,Peaceful_protest_majority,10,0.8333333333333334
+761,Le Figaro,France_majority,22,1.0,Le Figaro,Peaceful_protest_majority,17,0.7727272727272727
+762,Birmingham Mail,United_Kingdom_majority,20,1.0,Birmingham Mail,Peaceful_protest_majority,12,0.6
+763,Western Mail,United_Kingdom_majority,11,1.0,Western Mail,Peaceful_protest_majority,8,0.7272727272727273
+764,Shillong Times,India_majority,25,1.0,Shillong Times,Peaceful_protest_majority,18,0.72
+765,United News of Bangladesh,Bangladesh_majority,43,1.0,United News of Bangladesh,Peaceful_protest_majority,30,0.6976744186046512
+766,news.com.au,Australia_majority,23,1.0,news.com.au,Peaceful_protest_majority,23,1.0
+767,Advertiser (AdelaideNow),Australia_majority,11,1.0,Advertiser (AdelaideNow),Peaceful_protest_majority,11,1.0
+768,El Mercurio (Ecuador),Ecuador_majority,19,1.0,El Mercurio (Ecuador),Peaceful_protest_majority,18,0.9473684210526315
+769,Le Temps,Switzerland_majority,10,1.0,Le Temps,Peaceful_protest_majority,9,0.9
+770,Segodnya,Ukraine_majority,106,1.0,Segodnya,Peaceful_protest_majority,93,0.8773584905660378
+771,Eitb (Spanish),Spain_majority,46,1.0,Eitb (Spanish),Peaceful_protest_majority,32,0.6956521739130435
+772,The Age (Australia),Australia_majority,18,1.0,The Age (Australia),Peaceful_protest_majority,12,0.6666666666666666
+773,Hawaii News Now,United_States_majority,30,1.0,Hawaii News Now,Peaceful_protest_majority,24,0.8
+774,Clicanoo,Reunion_majority,32,1.0,Clicanoo,Peaceful_protest_majority,30,0.9375
+775,Imaz Press,Reunion_majority,50,1.0,Imaz Press,Peaceful_protest_majority,42,0.84
+776,Daily Mirror (Sri Lanka),Sri_Lanka_majority,16,1.0,Daily Mirror (Sri Lanka),Peaceful_protest_majority,13,0.8125
+777,SVT,Sweden_majority,21,0.9545454545454546,SVT,Peaceful_protest_majority,15,0.6818181818181818
+778,KTVU Fox2,United_States_majority,24,1.0,KTVU Fox2,Peaceful_protest_majority,22,0.9166666666666666
+779,Zarig.mn,Mongolia_majority,14,1.0,Zarig.mn,Peaceful_protest_majority,11,0.7857142857142857
+780,To Pontiki,Greece_majority,165,1.0,To Pontiki,Peaceful_protest_majority,129,0.7818181818181819
+781,SNES-FSU,France_majority,150,1.0,SNES-FSU,Peaceful_protest_majority,147,0.98
+782,CISION,Portugal_majority,17,1.0,CISION,Peaceful_protest_majority,17,1.0
+783,Jornal de Noticias,Portugal_majority,10,0.9090909090909091,Jornal de Noticias,Peaceful_protest_majority,11,1.0
+784,Le Parisien,France_majority,87,1.0,Le Parisien,Peaceful_protest_majority,69,0.7931034482758621
+785,Fox13 (Salt Lake City),United_States_majority,20,1.0,Fox13 (Salt Lake City),Peaceful_protest_majority,19,0.95
+786,Secolo D'Italia,Italy_majority,77,1.0,Secolo D'Italia,Peaceful_protest_majority,69,0.8961038961038961
+787,KXAN,United_States_majority,15,1.0,KXAN,Peaceful_protest_majority,14,0.9333333333333333
+788,Fox5 San Diego,United_States_majority,32,1.0,Fox5 San Diego,Peaceful_protest_majority,32,1.0
+789,News 10 (Medford),United_States_majority,14,1.0,News 10 (Medford),Peaceful_protest_majority,14,1.0
+790,News Break,United_States_majority,11,1.0,News Break,Peaceful_protest_majority,11,1.0
+791,Libertas,San_Marino_majority,15,0.8333333333333334,Libertas,Peaceful_protest_majority,14,0.7777777777777778
+792,El Nuevo Dia (Colombia),Colombia_majority,23,1.0,El Nuevo Dia (Colombia),Peaceful_protest_majority,23,1.0
+793,Channel 5 (Twin Cities),United_States_majority,16,1.0,Channel 5 (Twin Cities),Peaceful_protest_majority,14,0.875
+794,Minnesota Public Radio,United_States_majority,10,1.0,Minnesota Public Radio,Peaceful_protest_majority,8,0.8
+795,KPIX5,United_States_majority,30,1.0,KPIX5,Peaceful_protest_majority,26,0.8666666666666667
+796,Patch,United_States_majority,24,1.0,Patch,Peaceful_protest_majority,21,0.875
+797,Le Bien Public,France_majority,40,1.0,Le Bien Public,Peaceful_protest_majority,37,0.925
+798,Stato Quotidiano,Italy_majority,31,1.0,Stato Quotidiano,Peaceful_protest_majority,30,0.967741935483871
+799,Nessma,Tunisia_majority,37,0.9736842105263158,Nessma,Peaceful_protest_majority,32,0.8421052631578947
+800,La Jornada,Mexico_majority,177,1.0,La Jornada,Peaceful_protest_majority,156,0.8813559322033898
+801,El Vocero de Puerto Rico,Puerto_Rico_majority,14,1.0,El Vocero de Puerto Rico,Peaceful_protest_majority,12,0.8571428571428571
+802,Naya Patrika,Nepal_majority,106,1.0,Naya Patrika,Peaceful_protest_majority,102,0.9622641509433962
+803,Mi Hazank,Hungary_majority,11,1.0,Mi Hazank,Peaceful_protest_majority,11,1.0
+804,Index.hu,Hungary_majority,16,1.0,Index.hu,Peaceful_protest_majority,13,0.8125
+805,Committee for the Defence of Democracy,Poland_majority,30,1.0,Committee for the Defence of Democracy,Peaceful_protest_majority,30,1.0
+806,Sintesis,Mexico_majority,88,1.0,Sintesis,Peaceful_protest_majority,84,0.9545454545454546
+807,Turnul Sfatului,Romania_majority,11,1.0,Turnul Sfatului,Peaceful_protest_majority,8,0.7272727272727273
+808,Agerpres,Romania_majority,132,1.0,Agerpres,Peaceful_protest_majority,116,0.8787878787878788
+809,Kresy,Poland_majority,16,1.0,Kresy,Peaceful_protest_majority,15,0.9375
+810,Scottish Daily Record,United_Kingdom_majority,15,1.0,Scottish Daily Record,Peaceful_protest_majority,9,0.6
+811,Examiner (Launceston),Australia_majority,11,1.0,Examiner (Launceston),Peaceful_protest_majority,10,0.9090909090909091
+812,Il Resto Del Carlino,Italy_majority,32,0.9696969696969697,Il Resto Del Carlino,Peaceful_protest_majority,33,1.0
+813,Tiroler Tageszeitung,Austria_majority,20,0.9523809523809523,Tiroler Tageszeitung,Peaceful_protest_majority,18,0.8571428571428571
+814,Mosaique FM,Tunisia_majority,86,1.0,Mosaique FM,Peaceful_protest_majority,65,0.7558139534883721
+815,To Vima,Greece_majority,172,1.0,To Vima,Peaceful_protest_majority,127,0.7383720930232558
+816,Republican (Springfield),United_States_majority,18,1.0,Republican (Springfield),Peaceful_protest_majority,17,0.9444444444444444
+817,Q13 Fox,United_States_majority,13,1.0,Q13 Fox,Peaceful_protest_majority,13,1.0
+818,Boston 25,United_States_majority,13,1.0,Boston 25,Peaceful_protest_majority,13,1.0
+819,Gothamist,United_States_majority,11,1.0,Gothamist,Peaceful_protest_majority,9,0.8181818181818182
+820,Quotidiano Di Puglia,Italy_majority,15,1.0,Quotidiano Di Puglia,Peaceful_protest_majority,15,1.0
+821,Ekathimerini,Greece_majority,138,0.9387755102040817,Ekathimerini,Peaceful_protest_majority,94,0.6394557823129252
+822,nncMX,Mexico_majority,21,1.0,nncMX,Peaceful_protest_majority,20,0.9523809523809523
+823,KRON4,United_States_majority,13,1.0,KRON4,Peaceful_protest_majority,13,1.0
+824,Channel 13 (Las Vegas),United_States_majority,17,1.0,Channel 13 (Las Vegas),Peaceful_protest_majority,17,1.0
+825,ABC13 (Asheville),United_States_majority,17,1.0,ABC13 (Asheville),Peaceful_protest_majority,16,0.9411764705882353
+826,DiarioVasco,Spain_majority,79,1.0,DiarioVasco,Peaceful_protest_majority,67,0.8481012658227848
+827,Sputnik Lithuania,Lithuania_majority,16,0.9411764705882353,Sputnik Lithuania,Peaceful_protest_majority,16,0.9411764705882353
+828,El Norte,Mexico_majority,136,1.0,El Norte,Peaceful_protest_majority,129,0.9485294117647058
+829,El Correo (Spain),Spain_majority,23,1.0,El Correo (Spain),Peaceful_protest_majority,17,0.7391304347826086
+830,Channel 3 (Hartford),United_States_majority,11,1.0,Channel 3 (Hartford),Peaceful_protest_majority,11,1.0
+831,La Nacion (Paraguay),Paraguay_majority,107,0.981651376146789,La Nacion (Paraguay),Peaceful_protest_majority,100,0.9174311926605505
+832,Ultima Hora,Paraguay_majority,143,0.9662162162162162,Ultima Hora,Peaceful_protest_majority,135,0.9121621621621622
+833,Radiozurnal,Czech_Republic_majority,11,0.8461538461538461,Radiozurnal,Peaceful_protest_majority,12,0.9230769230769231
+834,Post and Courier,United_States_majority,13,1.0,Post and Courier,Peaceful_protest_majority,12,0.9230769230769231
+835,Die Tageszeitung,Germany_majority,18,1.0,Die Tageszeitung,Peaceful_protest_majority,12,0.6666666666666666
+836,Fox8 (High Point),United_States_majority,10,1.0,Fox8 (High Point),Peaceful_protest_majority,9,0.9
+837,El Comercial,Argentina_majority,52,0.9811320754716981,El Comercial,Peaceful_protest_majority,47,0.8867924528301887
+838,Bt.dk,Denmark_majority,25,0.9615384615384616,Bt.dk,Peaceful_protest_majority,21,0.8076923076923077
+839,TV2 Ostjylland,Denmark_majority,12,1.0,TV2 Ostjylland,Peaceful_protest_majority,9,0.75
+840,RGA,Germany_majority,15,1.0,RGA,Peaceful_protest_majority,11,0.7333333333333333
+841,Canarias7,Spain_majority,21,1.0,Canarias7,Peaceful_protest_majority,18,0.8571428571428571
+842,Catania Today,Italy_majority,33,1.0,Catania Today,Peaceful_protest_majority,33,1.0
+843,Brooklyn Paper,United_States_majority,13,1.0,Brooklyn Paper,Peaceful_protest_majority,13,1.0
+844,Detay,Cyprus_majority,49,1.0,Detay,Peaceful_protest_majority,44,0.8979591836734694
+845,Il Corriere Della Sera,Italy_majority,28,1.0,Il Corriere Della Sera,Peaceful_protest_majority,26,0.9285714285714286
+846,PSL Bay Area,United_States_majority,11,1.0,PSL Bay Area,Peaceful_protest_majority,11,1.0
+847,Itoim.mn,Mongolia_majority,12,0.8571428571428571,Itoim.mn,Peaceful_protest_majority,11,0.7857142857142857
+848,California Globe,United_States_majority,12,1.0,California Globe,Peaceful_protest_majority,12,1.0
+849,Il Gazzettino,Italy_majority,15,1.0,Il Gazzettino,Peaceful_protest_majority,13,0.8666666666666667
+850,El Pitazo,Venezuela_majority,273,1.0,El Pitazo,Peaceful_protest_majority,235,0.8608058608058609
+851,The Argus,United_Kingdom_majority,29,1.0,The Argus,Peaceful_protest_majority,22,0.7586206896551724
+852,Wicked Local,United_States_majority,10,1.0,Wicked Local,Peaceful_protest_majority,10,1.0
+853,CBS13 (Maine),United_States_majority,16,1.0,CBS13 (Maine),Peaceful_protest_majority,15,0.9375
+854,As Sabah,Tunisia_majority,54,1.0,As Sabah,Peaceful_protest_majority,52,0.9629629629629629
+855,Lidove Noviny,Czech_Republic_majority,14,1.0,Lidove Noviny,Peaceful_protest_majority,12,0.8571428571428571
+856,Agadir24,Morocco_majority,14,1.0,Agadir24,Peaceful_protest_majority,9,0.6428571428571429
+857,RTCG,Montenegro_majority,11,1.0,RTCG,Peaceful_protest_majority,7,0.6363636363636364
+858,Mallorca Diario,Spain_majority,12,1.0,Mallorca Diario,Peaceful_protest_majority,11,0.9166666666666666
+859,La Provincia,Spain_majority,15,1.0,La Provincia,Peaceful_protest_majority,14,0.9333333333333333
+860,La Capital (Argentina),Argentina_majority,89,1.0,La Capital (Argentina),Peaceful_protest_majority,84,0.9438202247191011
+861,Achkayen,Morocco_majority,38,0.9743589743589743,Achkayen,Peaceful_protest_majority,34,0.8717948717948718
+862,Akhbarona,Morocco_majority,38,1.0,Akhbarona,Peaceful_protest_majority,29,0.7631578947368421
+863,Caucasian Knot,Russia_majority,35,0.7142857142857143,Caucasian Knot,Peaceful_protest_majority,40,0.8163265306122449
+864,La Voz Digital - Cadiz,Spain_majority,44,1.0,La Voz Digital - Cadiz,Peaceful_protest_majority,38,0.8636363636363636
+865,Primorske,Slovenia_majority,11,1.0,Primorske,Peaceful_protest_majority,10,0.9090909090909091
+866,El Periodico (Spain),Spain_majority,25,1.0,El Periodico (Spain),Peaceful_protest_majority,20,0.8
+867,Gold Coast Bulletin,Australia_majority,12,1.0,Gold Coast Bulletin,Peaceful_protest_majority,10,0.8333333333333334
+868,Ada Derana,Sri_Lanka_majority,21,1.0,Ada Derana,Peaceful_protest_majority,18,0.8571428571428571
+869,Rustavi 2,Georgia_majority,47,1.0,Rustavi 2,Peaceful_protest_majority,45,0.9574468085106383
+870,Cape Argus,South_Africa_majority,21,1.0,Cape Argus,Peaceful_protest_majority,17,0.8095238095238095
+871,Lrytas,Lithuania_majority,23,0.9583333333333334,Lrytas,Peaceful_protest_majority,20,0.8333333333333334
+872,Blast Khabar,Nepal_majority,16,1.0,Blast Khabar,Peaceful_protest_majority,11,0.6875
+873,Diario 2001,Venezuela_majority,13,1.0,Diario 2001,Peaceful_protest_majority,11,0.8461538461538461
+874,Ahdath,Morocco_majority,29,1.0,Ahdath,Peaceful_protest_majority,19,0.6551724137931034
+875,UNITE HERE Local 11,United_States_majority,10,1.0,UNITE HERE Local 11,Peaceful_protest_majority,10,1.0
+876,Le Site Info,Morocco_majority,25,1.0,Le Site Info,Peaceful_protest_majority,22,0.88
+877,net.hr,Croatia_majority,29,1.0,net.hr,Peaceful_protest_majority,29,1.0
+878,Walla!News,Israel_majority,37,1.0,Walla!News,Peaceful_protest_majority,35,0.9459459459459459
+879,Berlin Online,Germany_majority,61,1.0,Berlin Online,Peaceful_protest_majority,47,0.7704918032786885
+880,Monaco Matin,France_majority,9,0.9,Monaco Matin,Peaceful_protest_majority,7,0.7
+881,Corriere Del Veneto,Italy_majority,69,1.0,Corriere Del Veneto,Peaceful_protest_majority,69,1.0
+882,East Mojo,India_majority,14,1.0,East Mojo,Peaceful_protest_majority,11,0.7857142857142857
+883,La Cerca,Spain_majority,29,1.0,La Cerca,Peaceful_protest_majority,29,1.0
+884,Giornale Di Sicilia,Italy_majority,13,1.0,Giornale Di Sicilia,Peaceful_protest_majority,13,1.0
+885,Basilicata24,Italy_majority,15,1.0,Basilicata24,Peaceful_protest_majority,10,0.6666666666666666
+886,Delfi - Latvian News,Latvia_majority,18,0.9473684210526315,Delfi - Latvian News,Peaceful_protest_majority,17,0.8947368421052632
+887,KoSSev,Kosovo_majority,12,0.9230769230769231,KoSSev,Peaceful_protest_majority,12,0.9230769230769231
+888,SEIU Local 521,United_States_majority,11,1.0,SEIU Local 521,Peaceful_protest_majority,11,1.0
+889,El Cordillerano,Argentina_majority,69,1.0,El Cordillerano,Peaceful_protest_majority,66,0.9565217391304348
+890,O Liberal,Brazil_majority,34,1.0,O Liberal,Peaceful_protest_majority,30,0.8823529411764706
+891,Den Haag FM,Netherlands_majority,13,1.0,Den Haag FM,Peaceful_protest_majority,12,0.9230769230769231
+892,Pratidin Time,India_majority,11,1.0,Pratidin Time,Peaceful_protest_majority,9,0.8181818181818182
+893,Kaktus Media,Kyrgyzstan_majority,12,0.9230769230769231,Kaktus Media,Peaceful_protest_majority,11,0.8461538461538461
+894,Apollo.lv,Latvia_majority,10,1.0,Apollo.lv,Peaceful_protest_majority,8,0.8
+895,Neatkariga Rita Avize,Latvia_majority,10,1.0,Neatkariga Rita Avize,Peaceful_protest_majority,8,0.8
+896,24 Channel,Ukraine_majority,91,1.0,24 Channel,Peaceful_protest_majority,80,0.8791208791208791
+897,National Corps,Ukraine_majority,20,1.0,National Corps,Peaceful_protest_majority,19,0.95
+898,Novoye Vremya Ukraine,Ukraine_majority,103,1.0,Novoye Vremya Ukraine,Peaceful_protest_majority,89,0.8640776699029126
+899,Andalucia Informacion,Spain_majority,28,1.0,Andalucia Informacion,Peaceful_protest_majority,27,0.9642857142857143
+900,Antigua Observer,Antigua_and_Barbuda_majority,13,0.8666666666666667,Antigua Observer,Peaceful_protest_majority,10,0.6666666666666666
+901,El Correo Digital,Spain_majority,44,1.0,El Correo Digital,Peaceful_protest_majority,32,0.7272727272727273
+902,Paris Normandie,France_majority,39,1.0,Paris Normandie,Peaceful_protest_majority,39,1.0
+903,Rimini Today,Italy_majority,25,1.0,Rimini Today,Peaceful_protest_majority,24,0.96
+904,24 Heures,Switzerland_majority,11,0.7333333333333333,24 Heures,Peaceful_protest_majority,15,1.0
+905,Chouf TV,Morocco_majority,13,1.0,Chouf TV,Peaceful_protest_majority,12,0.9230769230769231
+906,Haravgi,Cyprus_majority,11,1.0,Haravgi,Peaceful_protest_majority,11,1.0
+907,COCAP-Nepal Monitor,Nepal_majority,495,1.0,COCAP-Nepal Monitor,Peaceful_protest_majority,348,0.703030303030303
+908,Himalayan Times,Nepal_majority,78,1.0,Himalayan Times,Peaceful_protest_majority,65,0.8333333333333334
+909,El Diario (Ecuador),Ecuador_majority,12,1.0,El Diario (Ecuador),Peaceful_protest_majority,12,1.0
+910,TV3,Lithuania_majority,12,1.0,TV3,Peaceful_protest_majority,9,0.75
+911,Sky TG24,Italy_majority,10,1.0,Sky TG24,Peaceful_protest_majority,7,0.7
+912,JutarnjiLIST Online,Croatia_majority,24,1.0,JutarnjiLIST Online,Peaceful_protest_majority,24,1.0
+913,Tayga.Info,Russia_majority,24,1.0,Tayga.Info,Peaceful_protest_majority,23,0.9583333333333334
+914,Irish Independent,Ireland_majority,19,1.0,Irish Independent,Peaceful_protest_majority,16,0.8421052631578947
+915,La Opinion A Coruna,Spain_majority,24,1.0,La Opinion A Coruna,Peaceful_protest_majority,24,1.0
+916,N1TV Online,Serbia_majority,66,0.7951807228915663,N1TV Online,Peaceful_protest_majority,78,0.9397590361445783
+917,La Patria,Colombia_majority,23,0.8846153846153846,La Patria,Peaceful_protest_majority,21,0.8076923076923077
+918,La Tribuna Di Treviso,Italy_majority,34,1.0,La Tribuna Di Treviso,Peaceful_protest_majority,32,0.9411764705882353
+919,Qui Como,Italy_majority,63,1.0,Qui Como,Peaceful_protest_majority,62,0.9841269841269841
+920,Vanguardia Liberal,Colombia_majority,45,1.0,Vanguardia Liberal,Peaceful_protest_majority,30,0.6666666666666666
+921,Ohtuleht,Estonia_majority,12,0.9230769230769231,Ohtuleht,Peaceful_protest_majority,12,0.9230769230769231
+922,Giornale Di Brescia,Italy_majority,42,1.0,Giornale Di Brescia,Peaceful_protest_majority,35,0.8333333333333334
+923,Star Tribune (Minneapolis),United_States_majority,12,1.0,Star Tribune (Minneapolis),Peaceful_protest_majority,12,1.0
+924,Berlingske,Denmark_majority,14,1.0,Berlingske,Peaceful_protest_majority,9,0.6428571428571429
+925,El Espectador,Colombia_majority,47,1.0,El Espectador,Peaceful_protest_majority,31,0.6595744680851063
+926,El Universal (Colombia),Colombia_majority,59,1.0,El Universal (Colombia),Peaceful_protest_majority,48,0.8135593220338984
+927,Observador,Portugal_majority,11,1.0,Observador,Peaceful_protest_majority,11,1.0
+928,La Provincia Di Como,Italy_majority,13,1.0,La Provincia Di Como,Peaceful_protest_majority,13,1.0
+929,Diario do Nordeste,Brazil_majority,28,1.0,Diario do Nordeste,Peaceful_protest_majority,23,0.8214285714285714
+930,La Estrella Concepcion,Chile_majority,59,1.0,La Estrella Concepcion,Peaceful_protest_majority,43,0.7288135593220338
+931,La Estrella Arica,Chile_majority,23,1.0,La Estrella Arica,Peaceful_protest_majority,20,0.8695652173913043
+932,Stop Corruption,Ukraine_majority,23,1.0,Stop Corruption,Peaceful_protest_majority,17,0.7391304347826086
+933,Delfi - Lithuanian News,Lithuania_majority,16,1.0,Delfi - Lithuanian News,Peaceful_protest_majority,14,0.875
+934,Corriere Fiorentino,Italy_majority,10,1.0,Corriere Fiorentino,Peaceful_protest_majority,9,0.9
+935,Pretoria News,South_Africa_majority,10,1.0,Pretoria News,Peaceful_protest_majority,8,0.8
+936,Fox5 (Las Vegas),United_States_majority,25,1.0,Fox5 (Las Vegas),Peaceful_protest_majority,24,0.96
+937,Dagblad Van Het Noorden,Netherlands_majority,11,1.0,Dagblad Van Het Noorden,Peaceful_protest_majority,7,0.6363636363636364
+938,Reggio 2000,Italy_majority,10,1.0,Reggio 2000,Peaceful_protest_majority,10,1.0
+939,Brescia Today,Italy_majority,13,1.0,Brescia Today,Peaceful_protest_majority,11,0.8461538461538461
+940,RTV Utrecht,Netherlands_majority,22,1.0,RTV Utrecht,Peaceful_protest_majority,14,0.6363636363636364
+941,Delfi - Estonian News,Estonia_majority,11,1.0,Delfi - Estonian News,Peaceful_protest_majority,10,0.9090909090909091
+942,CN24,Italy_majority,83,1.0,CN24,Peaceful_protest_majority,82,0.9879518072289156
+943,24ur,Slovenia_majority,14,1.0,24ur,Peaceful_protest_majority,12,0.8571428571428571
+944,Lecce Prima,Italy_majority,33,1.0,Lecce Prima,Peaceful_protest_majority,32,0.9696969696969697
+945,Perugia Today,Italy_majority,10,1.0,Perugia Today,Peaceful_protest_majority,10,1.0
+946,Don't Break Article 9! Executive Committee,Japan_majority,12,1.0,Don't Break Article 9! Executive Committee,Peaceful_protest_majority,12,1.0
+947,New Times (Kazakhstan),Kazakhstan_majority,13,1.0,New Times (Kazakhstan),Peaceful_protest_majority,9,0.6923076923076923
+948,CBS8 (San Diego),United_States_majority,11,1.0,CBS8 (San Diego),Peaceful_protest_majority,11,1.0
+949,Rtvslo,Slovenia_majority,49,1.0,Rtvslo,Peaceful_protest_majority,46,0.9387755102040817
+950,Vecer,Slovenia_majority,11,1.0,Vecer,Peaceful_protest_majority,11,1.0
+951,Hans India,India_majority,140,1.0,Hans India,Peaceful_protest_majority,126,0.9
+952,Local 4 (Detroit),United_States_majority,18,1.0,Local 4 (Detroit),Peaceful_protest_majority,16,0.8888888888888888
+953,La Provincia Di Cremona,Italy_majority,38,1.0,La Provincia Di Cremona,Peaceful_protest_majority,37,0.9736842105263158
+954,Liberte (Algeria),Algeria_majority,107,0.9907407407407407,Liberte (Algeria),Peaceful_protest_majority,103,0.9537037037037037
+955,24sata.hr,Croatia_majority,10,1.0,24sata.hr,Peaceful_protest_majority,10,1.0
+956,Lanka Views,Sri_Lanka_majority,12,1.0,Lanka Views,Peaceful_protest_majority,10,0.8333333333333334
+957,South Asia Terrorism Portal,Sri_Lanka_majority,10,0.9090909090909091,South Asia Terrorism Portal,Peaceful_protest_majority,10,0.9090909090909091
+958,Channel 2 (Atlanta),United_States_majority,18,1.0,Channel 2 (Atlanta),Peaceful_protest_majority,18,1.0
+959,Glas Istre,Croatia_majority,16,1.0,Glas Istre,Peaceful_protest_majority,16,1.0
+960,News12 (New Jersey),United_States_majority,14,1.0,News12 (New Jersey),Peaceful_protest_majority,14,1.0
+961,Staten Island Advance,United_States_majority,15,1.0,Staten Island Advance,Peaceful_protest_majority,15,1.0
+962,MediaZone,Russia_majority,17,1.0,MediaZone,Protest_with_intervention_majority,13,0.7647058823529411
+963,Diario Digital De Ceuta,Spain_majority,10,1.0,Diario Digital De Ceuta,Peaceful_protest_majority,10,1.0
+964,Tamil Guardian,Sri_Lanka_majority,38,1.0,Tamil Guardian,Peaceful_protest_majority,33,0.868421052631579
+965,Le Nouvelliste Switzerland,Switzerland_majority,26,1.0,Le Nouvelliste Switzerland,Peaceful_protest_majority,20,0.7692307692307693
+966,Manchester Evening News,United_Kingdom_majority,14,1.0,Manchester Evening News,Peaceful_protest_majority,12,0.8571428571428571
+967,Corriere Di Como,Italy_majority,100,1.0,Corriere Di Como,Peaceful_protest_majority,89,0.89
+968,Colombo Page,Sri_Lanka_majority,16,1.0,Colombo Page,Peaceful_protest_majority,12,0.75
+969,Iranian Student News Agency,Iran_majority,23,1.0,Iranian Student News Agency,Change_to_group_activity_majority,18,0.782608695652174
+970,Infolibre,Spain_majority,37,1.0,Infolibre,Peaceful_protest_majority,37,1.0
+971,Midiamax,Brazil_majority,27,1.0,Midiamax,Peaceful_protest_majority,25,0.9259259259259259
+972,Bulgarian News Agency,Bulgaria_majority,29,1.0,Bulgarian News Agency,Peaceful_protest_majority,29,1.0
+973,24 Chasa,Bulgaria_majority,15,1.0,24 Chasa,Peaceful_protest_majority,13,0.8666666666666667
+974,Nador City,Morocco_majority,16,1.0,Nador City,Peaceful_protest_majority,13,0.8125
+975,Novara Today,Italy_majority,22,1.0,Novara Today,Peaceful_protest_majority,22,1.0
+976,Voce Di Mantova,Italy_majority,23,1.0,Voce Di Mantova,Peaceful_protest_majority,21,0.9130434782608695
+977,Macedonian Information Agency,North_Macedonia_majority,35,1.0,Macedonian Information Agency,Peaceful_protest_majority,33,0.9428571428571428
+978,CBS19 (Cleveland),United_States_majority,14,1.0,CBS19 (Cleveland),Peaceful_protest_majority,14,1.0
+979,Cronaca Flegrea,Italy_majority,13,1.0,Cronaca Flegrea,Peaceful_protest_majority,12,0.9230769230769231
+980,061.ua,Ukraine_majority,10,1.0,061.ua,Peaceful_protest_majority,8,0.8
+981,Focus,Ukraine_majority,38,1.0,Focus,Peaceful_protest_majority,27,0.7105263157894737
+982,UA:Pershiy,Ukraine_majority,46,1.0,UA:Pershiy,Peaceful_protest_majority,41,0.8913043478260869
+983,Interfax,Russia_majority,11,0.7333333333333333,Interfax,Peaceful_protest_majority,10,0.6666666666666666
+984,Nation (Pakistan),Pakistan_majority,14,1.0,Nation (Pakistan),Peaceful_protest_majority,13,0.9285714285714286
+985,Davis Vanguard,United_States_majority,14,1.0,Davis Vanguard,Peaceful_protest_majority,14,1.0
+986,Gyeongnam Ilbo,South_Korea_majority,22,1.0,Gyeongnam Ilbo,Peaceful_protest_majority,22,1.0
+987,San Gabriel Valley Tribune,United_States_majority,13,1.0,San Gabriel Valley Tribune,Peaceful_protest_majority,13,1.0
+988,Mesager,Moldova_majority,12,1.0,Mesager,Peaceful_protest_majority,11,0.9166666666666666
+989,IPN,Moldova_majority,12,1.0,IPN,Peaceful_protest_majority,10,0.8333333333333334
+990,EuropaSur,Spain_majority,28,1.0,EuropaSur,Peaceful_protest_majority,27,0.9642857142857143
+991,Channel 3 (Las Vegas),United_States_majority,10,1.0,Channel 3 (Las Vegas),Peaceful_protest_majority,10,1.0
+992,La Estrella del Loa,Chile_majority,23,1.0,La Estrella del Loa,Peaceful_protest_majority,17,0.7391304347826086
+993,Total Slovenia News,Slovenia_majority,15,1.0,Total Slovenia News,Peaceful_protest_majority,13,0.8666666666666667
+994,3TV (Phoenix),United_States_majority,12,1.0,3TV (Phoenix),Peaceful_protest_majority,12,1.0
+995,Pittsburgh City Paper,United_States_majority,10,1.0,Pittsburgh City Paper,Peaceful_protest_majority,10,1.0
+996,Jornal do Commercio,Brazil_majority,77,1.0,Jornal do Commercio,Peaceful_protest_majority,70,0.9090909090909091
+997,E-Consulta,Mexico_majority,26,1.0,E-Consulta,Peaceful_protest_majority,20,0.7692307692307693
+998,News International (Pakistan),Pakistan_majority,111,1.0,News International (Pakistan),Peaceful_protest_majority,104,0.9369369369369369
+999,Kosovo Online,Kosovo_majority,13,1.0,Kosovo Online,Peaceful_protest_majority,12,0.9230769230769231
+1000,KCRG-TV9,United_States_majority,10,1.0,KCRG-TV9,Peaceful_protest_majority,10,1.0
+1001,La Prensa de Monclova,Mexico_majority,36,1.0,La Prensa de Monclova,Peaceful_protest_majority,33,0.9166666666666666
+1002,Il Messaggero Veneto,Italy_majority,31,1.0,Il Messaggero Veneto,Peaceful_protest_majority,29,0.9354838709677419
+1003,RTP,Portugal_majority,16,1.0,RTP,Peaceful_protest_majority,16,1.0
+1004,El Civismo,Argentina_majority,16,1.0,El Civismo,Peaceful_protest_majority,15,0.9375
+1005,KSBY6,United_States_majority,16,1.0,KSBY6,Peaceful_protest_majority,16,1.0
+1006,CGTP: Confederacao Geral dos Trabalhadores Portugueses,Portugal_majority,16,1.0,CGTP: Confederacao Geral dos Trabalhadores Portugueses,Peaceful_protest_majority,16,1.0
+1007,A1+,Armenia_majority,13,1.0,A1+,Peaceful_protest_majority,11,0.8461538461538461
+1008,Santa Clarita Valley Signal,United_States_majority,13,1.0,Santa Clarita Valley Signal,Peaceful_protest_majority,13,1.0
+1009,Telegram & Gazette,United_States_majority,17,1.0,Telegram & Gazette,Peaceful_protest_majority,17,1.0
+1010,Spectrum News NY1,United_States_majority,20,1.0,Spectrum News NY1,Peaceful_protest_majority,19,0.95
+1011,Javanehha,Iran_majority,15,1.0,Javanehha,Peaceful_protest_majority,15,1.0
+1012,The Stand News,China_majority,44,1.0,The Stand News,Peaceful_protest_majority,35,0.7954545454545454
+1013,Lecco Notizie,Italy_majority,23,1.0,Lecco Notizie,Peaceful_protest_majority,23,1.0
+1014,Spokesman Review,United_States_majority,10,1.0,Spokesman Review,Peaceful_protest_majority,8,0.8
+1015,Fox17 (Grand Rapids),United_States_majority,14,1.0,Fox17 (Grand Rapids),Peaceful_protest_majority,13,0.9285714285714286
+1016,Bergamo News,Italy_majority,32,1.0,Bergamo News,Peaceful_protest_majority,31,0.96875
+1017,Gazzetta Della Spezia,Italy_majority,18,1.0,Gazzetta Della Spezia,Peaceful_protest_majority,18,1.0
+1018,El Khabar (Algeria),Algeria_majority,31,0.96875,El Khabar (Algeria),Peaceful_protest_majority,31,0.96875
+1019,El Diario de Carlos Paz,Argentina_majority,53,1.0,El Diario de Carlos Paz,Peaceful_protest_majority,51,0.9622641509433962
+1020,Catamarca Actual,Argentina_majority,60,1.0,Catamarca Actual,Peaceful_protest_majority,55,0.9166666666666666
+1021,El Libertador,Argentina_majority,37,1.0,El Libertador,Peaceful_protest_majority,37,1.0
+1022,Ziarul de Garda,Moldova_majority,13,1.0,Ziarul de Garda,Peaceful_protest_majority,11,0.8461538461538461
+1023,Newsmaker.md,Moldova_majority,36,1.0,Newsmaker.md,Peaceful_protest_majority,34,0.9444444444444444
+1024,Nokta.md,Moldova_majority,10,1.0,Nokta.md,Peaceful_protest_majority,8,0.8
+1025,Daily Observer (Bangladesh),Bangladesh_majority,92,1.0,Daily Observer (Bangladesh),Peaceful_protest_majority,82,0.8913043478260869
+1026,Diariodejerez,Spain_majority,19,1.0,Diariodejerez,Peaceful_protest_majority,18,0.9473684210526315
+1027,Polesine24,Italy_majority,17,1.0,Polesine24,Peaceful_protest_majority,17,1.0
+1028,Maribor Info,Slovenia_majority,11,1.0,Maribor Info,Peaceful_protest_majority,11,1.0
+1029,Pakistan Observer,Pakistan_majority,16,1.0,Pakistan Observer,Peaceful_protest_majority,14,0.875
+1030,La Razon (Spain),Spain_majority,50,1.0,La Razon (Spain),Peaceful_protest_majority,44,0.88
+1031,Varese7press,Italy_majority,11,0.9166666666666666,Varese7press,Peaceful_protest_majority,11,0.9166666666666666
+1032,Tvi 24,Portugal_majority,32,1.0,Tvi 24,Peaceful_protest_majority,30,0.9375
+1033,El Universo (Ecuador),Ecuador_majority,51,0.8947368421052632,El Universo (Ecuador),Peaceful_protest_majority,54,0.9473684210526315
+1034,La Estrella de Iquique,Chile_majority,29,1.0,La Estrella de Iquique,Peaceful_protest_majority,26,0.896551724137931
+1035,Daily Post,United_Kingdom_majority,13,1.0,Daily Post,Peaceful_protest_majority,13,1.0
+1036,Las Provincias,Spain_majority,70,1.0,Las Provincias,Peaceful_protest_majority,68,0.9714285714285714
+1037,El Universal (Mexico),Mexico_majority,68,1.0,El Universal (Mexico),Peaceful_protest_majority,59,0.8676470588235294
+1038,MiMorelia,Mexico_majority,52,1.0,MiMorelia,Peaceful_protest_majority,45,0.8653846153846154
+1039,Belltower News,Germany_majority,91,1.0,Belltower News,Peaceful_protest_majority,77,0.8461538461538461
+1040,State Times (India),India_majority,15,1.0,State Times (India),Peaceful_protest_majority,15,1.0
+1041,Belfast Telegraph,United_Kingdom_majority,12,0.75,Belfast Telegraph,Peaceful_protest_majority,12,0.75
+1042,El Heraldo (Ecuador),Ecuador_majority,13,1.0,El Heraldo (Ecuador),Peaceful_protest_majority,13,1.0
+1043,New York Daily News,United_States_majority,11,1.0,New York Daily News,Peaceful_protest_majority,9,0.8181818181818182
+1044,Vijesti,Montenegro_majority,16,1.0,Vijesti,Peaceful_protest_majority,15,0.9375
+1045,Diario do Estado Goias,Brazil_majority,59,1.0,Diario do Estado Goias,Peaceful_protest_majority,58,0.9830508474576272
+1046,Sputnik Latvia,Latvia_majority,13,1.0,Sputnik Latvia,Peaceful_protest_majority,9,0.6923076923076923
+1047,Koha Jone,Albania_majority,45,0.9782608695652174,Koha Jone,Peaceful_protest_majority,38,0.8260869565217391
+1048,Paris Match,France_majority,18,1.0,Paris Match,Peaceful_protest_majority,18,1.0
+1049,L'Express,France_majority,15,0.6521739130434783,L'Express,Peaceful_protest_majority,20,0.8695652173913043
+1050,La Stampa,Italy_majority,27,1.0,La Stampa,Peaceful_protest_majority,24,0.8888888888888888
+1051,Tribuna Campeche,Mexico_majority,64,1.0,Tribuna Campeche,Peaceful_protest_majority,59,0.921875
+1052,News.mn,Mongolia_majority,31,1.0,News.mn,Peaceful_protest_majority,19,0.6129032258064516
+1053,Montsame Agency,Mongolia_majority,11,1.0,Montsame Agency,Peaceful_protest_majority,7,0.6363636363636364
+1054,SAPO Portugal,Portugal_majority,12,1.0,SAPO Portugal,Peaceful_protest_majority,12,1.0
+1055,Columbian,United_States_majority,17,1.0,Columbian,Peaceful_protest_majority,17,1.0
+1056,La Voz de Michoacan,Mexico_majority,34,1.0,La Voz de Michoacan,Peaceful_protest_majority,28,0.8235294117647058
+1057,Basnews,Iraq_majority,13,1.0,Basnews,Change_to_group_activity_majority,11,0.8461538461538461
+1058,El Llanquihue,Chile_majority,34,1.0,El Llanquihue,Peaceful_protest_majority,25,0.7352941176470589
+1059,Independent (Uganda),Uganda_majority,10,1.0,Independent (Uganda),Peaceful_protest_majority,6,0.6
+1060,Caraota Digital,Venezuela_majority,64,1.0,Caraota Digital,Peaceful_protest_majority,61,0.953125
+1061,Diario Cronica (Argentina),Argentina_majority,43,1.0,Diario Cronica (Argentina),Peaceful_protest_majority,40,0.9302325581395349
+1062,WREG News Channel 3,United_States_majority,10,1.0,WREG News Channel 3,Peaceful_protest_majority,10,1.0
+1063,Daily Regional Times (Pakistan),Pakistan_majority,263,1.0,Daily Regional Times (Pakistan),Peaceful_protest_majority,259,0.9847908745247148
+1064,Baltimore Sun,United_States_majority,18,1.0,Baltimore Sun,Peaceful_protest_majority,16,0.8888888888888888
+1065,Unuudur,Mongolia_majority,13,1.0,Unuudur,Peaceful_protest_majority,10,0.7692307692307693
+1066,NBC5 (Fort Worth-Dallas),United_States_majority,10,1.0,NBC5 (Fort Worth-Dallas),Peaceful_protest_majority,10,1.0
+1067,WNCT,United_States_majority,10,1.0,WNCT,Peaceful_protest_majority,9,0.9
+1068,Press Telegram,United_States_majority,10,1.0,Press Telegram,Peaceful_protest_majority,10,1.0
+1069,Tripura Chronicle,India_majority,10,1.0,Tripura Chronicle,Peaceful_protest_majority,8,0.8
+1070,CCRTV - Catalunya Radio,Spain_majority,23,1.0,CCRTV - Catalunya Radio,Peaceful_protest_majority,22,0.9565217391304348
+1071,Radio and Televizioni Shqiptar,Albania_majority,13,1.0,Radio and Televizioni Shqiptar,Peaceful_protest_majority,13,1.0
+1072,ABC30 (Fresno),United_States_majority,10,1.0,ABC30 (Fresno),Peaceful_protest_majority,10,1.0
+1073,La Voce Del NordEst,Italy_majority,19,1.0,La Voce Del NordEst,Peaceful_protest_majority,19,1.0
+1074,IWJ,Japan_majority,22,1.0,IWJ,Peaceful_protest_majority,20,0.9090909090909091
+1075,Confederazione Italiana Sindacati Lavoratori,Italy_majority,20,1.0,Confederazione Italiana Sindacati Lavoratori,Peaceful_protest_majority,19,0.95
+1076,Faro De Vigo,Spain_majority,24,0.96,Faro De Vigo,Peaceful_protest_majority,24,0.96
+1077,Glasgow Times,United_Kingdom_majority,11,1.0,Glasgow Times,Peaceful_protest_majority,11,1.0
+1078,L'Unione Sarda,Italy_majority,11,1.0,L'Unione Sarda,Peaceful_protest_majority,9,0.8181818181818182
+1079,Yucatan a la Mano,Mexico_majority,51,1.0,Yucatan a la Mano,Peaceful_protest_majority,47,0.9215686274509803
+1080,WISN12,United_States_majority,19,1.0,WISN12,Peaceful_protest_majority,18,0.9473684210526315
+1081,Gazzetta Di Modena,Italy_majority,11,1.0,Gazzetta Di Modena,Peaceful_protest_majority,11,1.0
+1082,Red & Black,United_States_majority,17,1.0,Red & Black,Peaceful_protest_majority,17,1.0
+1083,El Mundo (El Salvador),El_Salvador_majority,11,1.0,El Mundo (El Salvador),Peaceful_protest_majority,9,0.8181818181818182
+1084,Interpressnews,Georgia_majority,35,1.0,Interpressnews,Peaceful_protest_majority,35,1.0
+1085,Albanian Daily News,Albania_majority,41,0.9534883720930233,Albanian Daily News,Peaceful_protest_majority,36,0.8372093023255814
+1086,Milwaukee Journal Sentinel,United_States_majority,11,1.0,Milwaukee Journal Sentinel,Peaceful_protest_majority,10,0.9090909090909091
+1087,Nove Da Firenze,Italy_majority,24,1.0,Nove Da Firenze,Peaceful_protest_majority,23,0.9583333333333334
+1088,Il Mattino Di Padova,Italy_majority,28,1.0,Il Mattino Di Padova,Peaceful_protest_majority,28,1.0
+1089,El Nacional (Venezuela),Venezuela_majority,23,0.9583333333333334,El Nacional (Venezuela),Peaceful_protest_majority,17,0.7083333333333334
+1090,Il Valore Italiano,Italy_majority,10,1.0,Il Valore Italiano,Peaceful_protest_majority,7,0.7
+1091,Net Press (North Macedonia),North_Macedonia_majority,18,1.0,Net Press (North Macedonia),Peaceful_protest_majority,18,1.0
+1092,El Austral Osorno,Chile_majority,30,1.0,El Austral Osorno,Peaceful_protest_majority,27,0.9
+1093,8 Columnas,Mexico_majority,24,1.0,8 Columnas,Peaceful_protest_majority,23,0.9583333333333334
+1094,Sega,Bulgaria_majority,24,1.0,Sega,Peaceful_protest_majority,20,0.8333333333333334
+1095,Correio Braziliense,Brazil_majority,71,1.0,Correio Braziliense,Peaceful_protest_majority,67,0.9436619718309859
+1096,ES Hoje,Brazil_majority,19,1.0,ES Hoje,Peaceful_protest_majority,19,1.0
+1097,O Imparcial,Brazil_majority,11,1.0,O Imparcial,Peaceful_protest_majority,11,1.0
+1098,KPBS,United_States_majority,15,1.0,KPBS,Peaceful_protest_majority,13,0.8666666666666667
+1099,WESH2,United_States_majority,11,1.0,WESH2,Peaceful_protest_majority,11,1.0
+1100,UNITE HERE Local 26,United_States_majority,11,1.0,UNITE HERE Local 26,Peaceful_protest_majority,11,1.0
+1101,NO OLYMPICS 2020,Japan_majority,17,1.0,NO OLYMPICS 2020,Peaceful_protest_majority,16,0.9411764705882353
+1102,King5,United_States_majority,27,1.0,King5,Peaceful_protest_majority,24,0.8888888888888888
+1103,Newsday,United_States_majority,9,0.9,Newsday,Peaceful_protest_majority,9,0.9
+1104,CBS58,United_States_majority,15,1.0,CBS58,Peaceful_protest_majority,14,0.9333333333333333
+1105,Dnevnik.si,Slovenia_majority,10,1.0,Dnevnik.si,Peaceful_protest_majority,9,0.9
+1106,Richmond News,Canada_majority,12,1.0,Richmond News,Peaceful_protest_majority,12,1.0
+1107,Jurnal,Moldova_majority,19,1.0,Jurnal,Peaceful_protest_majority,16,0.8421052631578947
+1108,India Today,India_majority,17,1.0,India Today,Peaceful_protest_majority,12,0.7058823529411765
+1109,Honolulu Star-Advertiser,United_States_majority,14,1.0,Honolulu Star-Advertiser,Peaceful_protest_majority,13,0.9285714285714286
+1110,Ak Zhaiyk,Kazakhstan_majority,19,1.0,Ak Zhaiyk,Peaceful_protest_majority,15,0.7894736842105263
+1111,New Vision (Uganda),Uganda_majority,16,1.0,New Vision (Uganda),Peaceful_protest_majority,10,0.625
+1112,Nova Makedonija,North_Macedonia_majority,11,1.0,Nova Makedonija,Peaceful_protest_majority,11,1.0
+1113,Sicilia 24 ORE,Italy_majority,11,1.0,Sicilia 24 ORE,Peaceful_protest_majority,11,1.0
+1114,Kathmandu Post,Nepal_majority,94,1.0,Kathmandu Post,Peaceful_protest_majority,81,0.8617021276595744
+1115,Endstation Rechts,Germany_majority,23,1.0,Endstation Rechts,Peaceful_protest_majority,14,0.6086956521739131
+1116,BFM,France_majority,13,1.0,BFM,Peaceful_protest_majority,10,0.7692307692307693
+1117,Hartford Courant,United_States_majority,21,1.0,Hartford Courant,Peaceful_protest_majority,21,1.0
+1118,Fox5 Atlanta,United_States_majority,14,1.0,Fox5 Atlanta,Peaceful_protest_majority,13,0.9285714285714286
+1119,KNWA,United_States_majority,10,1.0,KNWA,Peaceful_protest_majority,10,1.0
+1120,WCJB TV-20,United_States_majority,11,1.0,WCJB TV-20,Peaceful_protest_majority,11,1.0
+1121,Zona Franca,Mexico_majority,36,1.0,Zona Franca,Peaceful_protest_majority,32,0.8888888888888888
+1122,Diario Jornada,Argentina_majority,24,1.0,Diario Jornada,Peaceful_protest_majority,23,0.9583333333333334
+1123,Riodoce,Mexico_majority,32,1.0,Riodoce,Peaceful_protest_majority,29,0.90625
+1124,KOB4,United_States_majority,18,1.0,KOB4,Peaceful_protest_majority,15,0.8333333333333334
+1125,Columbus Dispatch,United_States_majority,12,1.0,Columbus Dispatch,Peaceful_protest_majority,12,1.0
+1126,Live 5 (Charleston),United_States_majority,12,1.0,Live 5 (Charleston),Peaceful_protest_majority,12,1.0
+1127,Fox6 Milwaukee,United_States_majority,13,1.0,Fox6 Milwaukee,Peaceful_protest_majority,12,0.9230769230769231
+1128,KION NewsChannel 5/46,United_States_majority,11,1.0,KION NewsChannel 5/46,Peaceful_protest_majority,10,0.9090909090909091
+1129,Atlanta Journal Constitution,United_States_majority,24,1.0,Atlanta Journal Constitution,Peaceful_protest_majority,21,0.875
+1130,Bergen Record,United_States_majority,18,1.0,Bergen Record,Peaceful_protest_majority,17,0.9444444444444444
+1131,Times-Picayune,United_States_majority,13,1.0,Times-Picayune,Peaceful_protest_majority,13,1.0
+1132,Globes,Israel_majority,38,1.0,Globes,Peaceful_protest_majority,35,0.9210526315789473
+1133,Hawk,India_majority,12,1.0,Hawk,Peaceful_protest_majority,10,0.8333333333333334
+1134,BDnews24,Bangladesh_majority,19,1.0,BDnews24,Peaceful_protest_majority,13,0.6842105263157895
+1135,El Dia (Chile),Chile_majority,32,1.0,El Dia (Chile),Peaceful_protest_majority,24,0.75
+1136,Diario San Rafael,Argentina_majority,33,1.0,Diario San Rafael,Peaceful_protest_majority,30,0.9090909090909091
+1137,Central Maine,United_States_majority,16,1.0,Central Maine,Peaceful_protest_majority,16,1.0
+1138,Akron Beacon Journal,United_States_majority,12,1.0,Akron Beacon Journal,Peaceful_protest_majority,11,0.9166666666666666
+1139,George Herald (South Africa),South_Africa_majority,15,1.0,George Herald (South Africa),Peaceful_protest_majority,9,0.6
+1140,La Nueva Espana,Spain_majority,38,1.0,La Nueva Espana,Peaceful_protest_majority,36,0.9473684210526315
+1141,11 Alive,United_States_majority,16,1.0,11 Alive,Peaceful_protest_majority,15,0.9375
+1142,El Diario (Colombia),Colombia_majority,12,1.0,El Diario (Colombia),Peaceful_protest_majority,11,0.9166666666666666
+1143,Mediapool,Bulgaria_majority,24,1.0,Mediapool,Peaceful_protest_majority,20,0.8333333333333334
+1144,Nottingham Post,United_Kingdom_majority,19,1.0,Nottingham Post,Peaceful_protest_majority,15,0.7894736842105263
+1145,WHSV-TV3,United_States_majority,11,1.0,WHSV-TV3,Peaceful_protest_majority,10,0.9090909090909091
+1146,Sputnik News Service,Ukraine_majority,10,0.9090909090909091,Sputnik News Service,Peaceful_protest_majority,8,0.7272727272727273
+1147,WBTV,United_States_majority,11,1.0,WBTV,Peaceful_protest_majority,10,0.9090909090909091
+1148,6ABC,United_States_majority,17,1.0,6ABC,Peaceful_protest_majority,17,1.0
+1149,News Journal (Wilmington-DE),United_States_majority,10,1.0,News Journal (Wilmington-DE),Peaceful_protest_majority,10,1.0
+1150,KATV7,United_States_majority,11,1.0,KATV7,Peaceful_protest_majority,11,1.0
+1151,El Austral Temuco,Chile_majority,27,1.0,El Austral Temuco,Peaceful_protest_majority,19,0.7037037037037037
+1152,Chanarcillo,Chile_majority,17,1.0,Chanarcillo,Peaceful_protest_majority,15,0.8823529411764706
+1153,El Austral Valdivia,Chile_majority,18,1.0,El Austral Valdivia,Peaceful_protest_majority,11,0.6111111111111112
+1154,Voice of Democracy (Cambodia),Cambodia_majority,10,1.0,Voice of Democracy (Cambodia),Peaceful_protest_majority,10,1.0
+1155,Gazette (Colorado Springs),United_States_majority,10,1.0,Gazette (Colorado Springs),Peaceful_protest_majority,10,1.0
+1156,NJdotcom,United_States_majority,28,1.0,NJdotcom,Peaceful_protest_majority,27,0.9642857142857143
+1157,El Mercurio (Chile),Chile_majority,14,1.0,El Mercurio (Chile),Peaceful_protest_majority,13,0.9285714285714286
+1158,El Heraldo (Colombia),Colombia_majority,30,0.967741935483871,El Heraldo (Colombia),Peaceful_protest_majority,25,0.8064516129032258
+1159,New Haven Register,United_States_majority,10,1.0,New Haven Register,Peaceful_protest_majority,10,1.0
+1160,APABIZ,Germany_majority,16,1.0,APABIZ,Peaceful_protest_majority,11,0.6875
+1161,My Republica (Nepal),Nepal_majority,63,1.0,My Republica (Nepal),Peaceful_protest_majority,55,0.873015873015873
+1162,Day (Norwich),United_States_majority,11,1.0,Day (Norwich),Peaceful_protest_majority,11,1.0
+1163,24 Horas (Mexico),Mexico_majority,72,1.0,24 Horas (Mexico),Peaceful_protest_majority,54,0.75
+1164,Gazzetta Di Mantova,Italy_majority,13,1.0,Gazzetta Di Mantova,Peaceful_protest_majority,13,1.0
+1165,Rajdhani Daily,Nepal_majority,11,1.0,Rajdhani Daily,Peaceful_protest_majority,10,0.9090909090909091
+1166,La Voce Di Rovigo,Italy_majority,14,1.0,La Voce Di Rovigo,Peaceful_protest_majority,14,1.0
+1167,Larioja,Spain_majority,64,1.0,Larioja,Peaceful_protest_majority,64,1.0
+1168,Diario Catarinense,Brazil_majority,33,1.0,Diario Catarinense,Peaceful_protest_majority,33,1.0
+1169,Nuova Cosenza,Italy_majority,18,1.0,Nuova Cosenza,Peaceful_protest_majority,18,1.0
+1170,Paschim Today,Nepal_majority,21,1.0,Paschim Today,Peaceful_protest_majority,16,0.7619047619047619
+1171,Diario La Libertad,Colombia_majority,24,1.0,Diario La Libertad,Peaceful_protest_majority,17,0.7083333333333334
+1172,IcWales,United_Kingdom_majority,14,1.0,IcWales,Peaceful_protest_majority,10,0.7142857142857143
+1173,Nagarik,Nepal_majority,39,1.0,Nagarik,Peaceful_protest_majority,29,0.7435897435897436
+1174,Detroit Free Press,United_States_majority,16,1.0,Detroit Free Press,Peaceful_protest_majority,14,0.875
+1175,BASE,Kazakhstan_majority,20,1.0,BASE,Peaceful_protest_majority,18,0.9
+1176,BCS Noticias,Mexico_majority,15,1.0,BCS Noticias,Peaceful_protest_majority,15,1.0
+1177,Hoy - Diario Digital De Badajoz,Spain_majority,31,1.0,Hoy - Diario Digital De Badajoz,Peaceful_protest_majority,31,1.0
+1178,El Dia,Spain_majority,19,0.95,El Dia,Peaceful_protest_majority,18,0.9
+1179,El Nashra,Lebanon_majority,131,1.0,El Nashra,Peaceful_protest_majority,92,0.7022900763358778
+1180,Murr TV,Lebanon_majority,146,1.0,Murr TV,Peaceful_protest_majority,100,0.684931506849315
+1181,14 February Revolution Youth Coalition,Bahrain_majority,235,1.0,14 February Revolution Youth Coalition,Peaceful_protest_majority,230,0.9787234042553191
+1182,Askar Shaigumarov,Kazakhstan_majority,12,1.0,Askar Shaigumarov,Peaceful_protest_majority,12,1.0
+1183,WTNH Channel 8,United_States_majority,18,1.0,WTNH Channel 8,Peaceful_protest_majority,18,1.0
+1184,Correio de Sergipe,Brazil_majority,10,1.0,Correio de Sergipe,Peaceful_protest_majority,10,1.0
+1185,Ermek Narymbai,Kazakhstan_majority,31,1.0,Ermek Narymbai,Peaceful_protest_majority,30,0.967741935483871
+1186,Jo 24,Jordan_majority,43,1.0,Jo 24,Peaceful_protest_majority,26,0.6046511627906976
+1187,Info (Slovakia),Slovakia_majority,13,0.9285714285714286,Info (Slovakia),Peaceful_protest_majority,14,1.0
+1188,Correio do Povo,Brazil_majority,39,1.0,Correio do Povo,Peaceful_protest_majority,39,1.0
+1189,Pagina 24 Jalisco,Mexico_majority,18,1.0,Pagina 24 Jalisco,Peaceful_protest_majority,16,0.8888888888888888
+1190,El Djoumhouria,Algeria_majority,10,1.0,El Djoumhouria,Peaceful_protest_majority,10,1.0
+1191,La Arena,Argentina_majority,41,1.0,La Arena,Peaceful_protest_majority,40,0.975609756097561
+1192,Khmer Times,Cambodia_majority,11,0.9166666666666666,Khmer Times,Peaceful_protest_majority,11,0.9166666666666666
+1193,Financial Express (Bangladesh),Bangladesh_majority,16,1.0,Financial Express (Bangladesh),Peaceful_protest_majority,15,0.9375
+1194,Zeta Tijuana,Mexico_majority,25,1.0,Zeta Tijuana,Peaceful_protest_majority,24,0.96
+1195,Daily Times (Pakistan),Pakistan_majority,29,1.0,Daily Times (Pakistan),Peaceful_protest_majority,26,0.896551724137931
+1196,Radio Tunisienne,Tunisia_majority,45,1.0,Radio Tunisienne,Peaceful_protest_majority,44,0.9777777777777777
+1197,Islamic Republic News Agency,Iran_majority,25,1.0,Islamic Republic News Agency,Change_to_group_activity_majority,20,0.8
+1198,Time8,India_majority,51,1.0,Time8,Peaceful_protest_majority,40,0.7843137254901961
+1199,Express Tribune (Pakistan),Pakistan_majority,48,1.0,Express Tribune (Pakistan),Peaceful_protest_majority,43,0.8958333333333334
+1200,Mehr News Agency,Iran_majority,22,1.0,Mehr News Agency,Peaceful_protest_majority,15,0.6818181818181818
+1201,Wen Wei Po,China_majority,74,1.0,Wen Wei Po,Peaceful_protest_majority,64,0.8648648648648649
+1202,Oregonian,United_States_majority,16,1.0,Oregonian,Peaceful_protest_majority,12,0.75
+1203,Fox12 Oregon,United_States_majority,13,1.0,Fox12 Oregon,Peaceful_protest_majority,13,1.0
+1204,Bangalore Mirror,India_majority,13,1.0,Bangalore Mirror,Peaceful_protest_majority,10,0.7692307692307693
+1205,Bahrain Alyoum,Bahrain_majority,15,1.0,Bahrain Alyoum,Peaceful_protest_majority,12,0.8
+1206,Granada Digital,Spain_majority,10,1.0,Granada Digital,Peaceful_protest_majority,10,1.0
+1207,El Diario (Bolivia),Bolivia_majority,29,1.0,El Diario (Bolivia),Peaceful_protest_majority,23,0.7931034482758621
+1208,KFI AM640,United_States_majority,12,1.0,KFI AM640,Peaceful_protest_majority,12,1.0
+1209,ADHRB,Bahrain_majority,11,1.0,ADHRB,Peaceful_protest_majority,11,1.0
+1210,Radio Wroclaw,Poland_majority,10,1.0,Radio Wroclaw,Peaceful_protest_majority,10,1.0
+1211,India Blooms News Service,India_majority,8,0.8,India Blooms News Service,Mob_violence_majority,7,0.7
+1212,La Gazzetta Del Mezzogiorno,Italy_majority,13,1.0,La Gazzetta Del Mezzogiorno,Peaceful_protest_majority,13,1.0
+1213,Omroep Zeeland,Netherlands_majority,13,1.0,Omroep Zeeland,Peaceful_protest_majority,13,1.0
+1214,La Verdad de Vargas,Venezuela_majority,12,1.0,La Verdad de Vargas,Peaceful_protest_majority,12,1.0
+1215,Alagoas 24 Horas,Brazil_majority,19,1.0,Alagoas 24 Horas,Peaceful_protest_majority,16,0.8421052631578947
+1216,Mtavari Arkhi,Georgia_majority,19,1.0,Mtavari Arkhi,Peaceful_protest_majority,16,0.8421052631578947
+1217,Bradenton Herald,United_States_majority,12,1.0,Bradenton Herald,Peaceful_protest_majority,12,1.0
+1218,Camboja News,Cambodia_majority,10,1.0,Camboja News,Peaceful_protest_majority,7,0.7
+1219,RMF24,Poland_majority,31,1.0,RMF24,Peaceful_protest_majority,29,0.9354838709677419
+1220,Il Fatto Quotidiano,Italy_majority,18,1.0,Il Fatto Quotidiano,Peaceful_protest_majority,16,0.8888888888888888
+1221,WDSU,United_States_majority,10,1.0,WDSU,Peaceful_protest_majority,9,0.9
+1222,Regio 7,Spain_majority,18,1.0,Regio 7,Peaceful_protest_majority,17,0.9444444444444444
+1223,Siracusa Post,Italy_majority,17,1.0,Siracusa Post,Peaceful_protest_majority,17,1.0
+1224,ROJ News,Iraq_majority,15,1.0,ROJ News,Peaceful_protest_majority,13,0.8666666666666667
+1225,Diario El Tiempo,Venezuela_majority,27,1.0,Diario El Tiempo,Peaceful_protest_majority,26,0.9629629629629629
+1226,FILCAMS,Italy_majority,10,1.0,FILCAMS,Peaceful_protest_majority,10,1.0
+1227,An-Nahar,Lebanon_majority,105,1.0,An-Nahar,Peaceful_protest_majority,71,0.6761904761904762
+1228,Meridio News,Italy_majority,17,1.0,Meridio News,Peaceful_protest_majority,16,0.9411764705882353
+1229,El Diario de la Republica,Argentina_majority,24,1.0,El Diario de la Republica,Peaceful_protest_majority,22,0.9166666666666666
+1230,Bolivia.com,Bolivia_majority,15,1.0,Bolivia.com,Peaceful_protest_majority,12,0.8
+1231,Shems FM,Tunisia_majority,33,1.0,Shems FM,Peaceful_protest_majority,27,0.8181818181818182
+1232,Africa Guinee,Guinea_majority,23,1.0,Africa Guinee,Violent_demonstration_majority,15,0.6521739130434783
+1233,Radio Zamaneh,Iran_majority,12,1.0,Radio Zamaneh,Peaceful_protest_majority,10,0.8333333333333334
+1234,El Massa,Algeria_majority,10,1.0,El Massa,Peaceful_protest_majority,10,1.0
+1235,La Sexta TV,Spain_majority,23,1.0,La Sexta TV,Peaceful_protest_majority,22,0.9565217391304348
+1236,Apple Daily Hong Kong,China_majority,13,1.0,Apple Daily Hong Kong,Peaceful_protest_majority,10,0.7692307692307693
+1237,Indymedia (Germany),Germany_majority,79,0.9875,Indymedia (Germany),Peaceful_protest_majority,60,0.75
+1238,Saga Shimbun,Japan_majority,12,1.0,Saga Shimbun,Peaceful_protest_majority,8,0.6666666666666666
+1239,Avanti,Italy_majority,14,1.0,Avanti,Peaceful_protest_majority,14,1.0
+1240,Diario De Navarra,Spain_majority,22,1.0,Diario De Navarra,Peaceful_protest_majority,19,0.8636363636363636
+1241,Arbejderen,Denmark_majority,13,0.9285714285714286,Arbejderen,Peaceful_protest_majority,14,1.0
+1242,Mural,Mexico_majority,14,1.0,Mural,Peaceful_protest_majority,9,0.6428571428571429
+1243,Haber Ercis,Turkey_majority,49,1.0,Haber Ercis,Peaceful_protest_majority,38,0.7755102040816326
+1244,Augsburger Allgemeine,Germany_majority,18,1.0,Augsburger Allgemeine,Peaceful_protest_majority,18,1.0
+1245,Tasnim News Agency,Iran_majority,14,1.0,Tasnim News Agency,Change_to_group_activity_majority,11,0.7857142857142857
+1246,Bako.com,United_States_majority,11,1.0,Bako.com,Peaceful_protest_majority,11,1.0
+1247,La Gazzetta Di Reggio,Italy_majority,13,1.0,La Gazzetta Di Reggio,Peaceful_protest_majority,12,0.9230769230769231
+1248,Kurir,North_Macedonia_majority,29,1.0,Kurir,Peaceful_protest_majority,28,0.9655172413793104
+1249,Political Research Associates,United_States_majority,24,1.0,Political Research Associates,Peaceful_protest_majority,20,0.8333333333333334
+1250,Live Sicilia,Italy_majority,15,1.0,Live Sicilia,Peaceful_protest_majority,13,0.8666666666666667
+1251,Le Quotidien d'Oran,Algeria_majority,12,1.0,Le Quotidien d'Oran,Peaceful_protest_majority,11,0.9166666666666666
+1252,El Liberal,Argentina_majority,26,1.0,El Liberal,Peaceful_protest_majority,23,0.8846153846153846
+1253,Al Wafa,Bahrain_majority,14,1.0,Al Wafa,Peaceful_protest_majority,14,1.0
+1254,CBS3 (Philadelphia),United_States_majority,16,1.0,CBS3 (Philadelphia),Peaceful_protest_majority,16,1.0
+1255,Fox29,United_States_majority,14,1.0,Fox29,Peaceful_protest_majority,12,0.8571428571428571
+1256,Caserta 24ore,Italy_majority,13,1.0,Caserta 24ore,Peaceful_protest_majority,12,0.9230769230769231
+1257,Deschide,Moldova_majority,25,1.0,Deschide,Peaceful_protest_majority,21,0.84
+1258,La Prensa (Panama),Panama_majority,26,1.0,La Prensa (Panama),Peaceful_protest_majority,22,0.8461538461538461
+1259,AhlulBayt News Agency,Bahrain_majority,16,1.0,AhlulBayt News Agency,Peaceful_protest_majority,15,0.9375
+1260,Argonaut,United_States_majority,20,1.0,Argonaut,Peaceful_protest_majority,20,1.0
+1261,El Periodico Extremadura,Spain_majority,24,1.0,El Periodico Extremadura,Peaceful_protest_majority,24,1.0
+1262,France Inter,France_majority,13,1.0,France Inter,Peaceful_protest_majority,13,1.0
+1263,Emporda,Spain_majority,12,1.0,Emporda,Peaceful_protest_majority,12,1.0
+1264,JFK21,Denmark_majority,19,1.0,JFK21,Peaceful_protest_majority,19,1.0
+1265,Black Flag Movement,Israel_majority,680,1.0,Black Flag Movement,Peaceful_protest_majority,620,0.9117647058823529
+1266,Polizei Berlin,Germany_majority,19,1.0,Polizei Berlin,Peaceful_protest_majority,14,0.7368421052631579
+1267,Imedinews.ge,Georgia_majority,22,1.0,Imedinews.ge,Peaceful_protest_majority,21,0.9545454545454546
+1268,Metro Seoul,South_Korea_majority,11,1.0,Metro Seoul,Peaceful_protest_majority,11,1.0
+1269,Fox10 (Phoenix),United_States_majority,12,1.0,Fox10 (Phoenix),Peaceful_protest_majority,12,1.0
+1270,TV Lux,Belgium_majority,11,1.0,TV Lux,Peaceful_protest_majority,11,1.0
+1271,El Periodic,Spain_majority,10,1.0,El Periodic,Peaceful_protest_majority,10,1.0
+1272,Nyasa Times (Malawi),Malawi_majority,13,1.0,Nyasa Times (Malawi),Peaceful_protest_majority,8,0.6153846153846154
+1273,Il Messaggero,Italy_majority,13,1.0,Il Messaggero,Peaceful_protest_majority,13,1.0
+1274,Lebanon Support,Lebanon_majority,20,1.0,Lebanon Support,Peaceful_protest_majority,17,0.85
+1275,20minutos,Spain_majority,18,1.0,20minutos,Peaceful_protest_majority,15,0.8333333333333334
+1276,St. Paul Pioneer Press,United_States_majority,10,1.0,St. Paul Pioneer Press,Peaceful_protest_majority,7,0.7
+1277,Count Love,United_States_majority,483,1.0,Count Love,Peaceful_protest_majority,473,0.979296066252588
+1278,Mascherine Tricolori,Italy_majority,481,1.0,Mascherine Tricolori,Peaceful_protest_majority,475,0.9875259875259875
+1279,WCCO Channel 4,United_States_majority,17,1.0,WCCO Channel 4,Peaceful_protest_majority,13,0.7647058823529411
+1280,Daily Republic,United_States_majority,10,1.0,Daily Republic,Peaceful_protest_majority,10,1.0
+1281,MAKEDONIA,Greece_majority,16,1.0,MAKEDONIA,Peaceful_protest_majority,14,0.875
+1282,Echorouk,Algeria_majority,13,1.0,Echorouk,Peaceful_protest_majority,12,0.9230769230769231
+1283,Yeniduzen,Cyprus_majority,12,1.0,Yeniduzen,Peaceful_protest_majority,11,0.9166666666666666
+1284,Quotidiano Di Imola,Italy_majority,13,1.0,Quotidiano Di Imola,Peaceful_protest_majority,11,0.8461538461538461
+1285,PEN-CONARE,Costa_Rica_majority,41,1.0,PEN-CONARE,Peaceful_protest_majority,40,0.975609756097561
+1286,LIGA.net,Ukraine_majority,14,1.0,LIGA.net,Peaceful_protest_majority,10,0.7142857142857143
+1287,Perilous Chronicle,United_States_majority,10,1.0,Perilous Chronicle,Peaceful_protest_majority,8,0.8
+1288,VilaWeb,Spain_majority,18,1.0,VilaWeb,Peaceful_protest_majority,17,0.9444444444444444
+1289,Unicorn Riot,United_States_majority,13,1.0,Unicorn Riot,Peaceful_protest_majority,11,0.8461538461538461
+1290,Moskovskij Komsomolets,Russia_majority,13,1.0,Moskovskij Komsomolets,Peaceful_protest_majority,9,0.6923076923076923
+1291,Neue Osnabrucker Zeitung,Germany_majority,18,1.0,Neue Osnabrucker Zeitung,Peaceful_protest_majority,18,1.0
+1292,Uralsk Week,Kazakhstan_majority,10,1.0,Uralsk Week,Peaceful_protest_majority,9,0.9
+1293,ThessNews,Greece_majority,11,1.0,ThessNews,Peaceful_protest_majority,9,0.8181818181818182
+1294,Committees for the Defence of the Republic,Spain_majority,18,1.0,Committees for the Defence of the Republic,Peaceful_protest_majority,18,1.0
+1295,Socialist Worker,United_Kingdom_majority,19,1.0,Socialist Worker,Peaceful_protest_majority,19,1.0
+1296,Rosbalt,Russia_majority,17,1.0,Rosbalt,Peaceful_protest_majority,11,0.6470588235294118
+1297,Ukrinform,Ukraine_majority,14,1.0,Ukrinform,Peaceful_protest_majority,13,0.9285714285714286
+1298,Diario La Region,Peru_majority,16,0.9411764705882353,Diario La Region,Peaceful_protest_majority,13,0.7647058823529411
+1299,Kommersant,Russia_majority,19,1.0,Kommersant,Peaceful_protest_majority,12,0.631578947368421
+1300,News Am,Armenia_majority,14,1.0,News Am,Peaceful_protest_majority,10,0.7142857142857143
+1301,Ryukyu Shimpo,Japan_majority,11,1.0,Ryukyu Shimpo,Peaceful_protest_majority,9,0.8181818181818182
+1302,Independiente de Hidalgo,Mexico_majority,61,1.0,Independiente de Hidalgo,Peaceful_protest_majority,55,0.9016393442622951
+1303,Peoples Dispatch,United_Kingdom_majority,14,1.0,Peoples Dispatch,Peaceful_protest_majority,14,1.0
+1304,Addis Standard,Ethiopia_majority,15,1.0,Addis Standard,Excessive_force_against_protesters_majority,11,0.7333333333333333
+1305,Le Quotidien (Senegal),Senegal_majority,10,1.0,Le Quotidien (Senegal),Violent_demonstration_majority,6,0.6
+1306,2sTV,Senegal_majority,11,1.0,2sTV,Violent_demonstration_majority,7,0.6363636363636364
+1307,Reporte YA,Venezuela_majority,9,0.9,Reporte YA,Peaceful_protest_majority,10,1.0
+1308,Epoch Times (Germany),Germany_majority,21,1.0,Epoch Times (Germany),Peaceful_protest_majority,16,0.7619047619047619
+1309,Million Moments for Democracy,Czech_Republic_majority,18,1.0,Million Moments for Democracy,Peaceful_protest_majority,18,1.0
+1310,Iustitia,Poland_majority,10,1.0,Iustitia,Peaceful_protest_majority,10,1.0
+1311,Whatsapp,Niger_majority,10,0.9090909090909091,Whatsapp,Violent_demonstration_majority,9,0.8181818181818182
+1312,FJ Portal,Egypt_majority,12,1.0,FJ Portal,Peaceful_protest_majority,8,0.6666666666666666
+1313,Bild Ostergotland,Sweden_majority,13,1.0,Bild Ostergotland,Peaceful_protest_majority,13,1.0
+1314,Norrkopings Tidningar,Sweden_majority,13,1.0,Norrkopings Tidningar,Peaceful_protest_majority,13,1.0

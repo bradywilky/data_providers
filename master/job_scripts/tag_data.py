@@ -216,13 +216,28 @@ def tag_time_period(df, n_clusters=4, init='random', n_init=10, max_iter=100, to
     return cluster_df
 
 
-def tag_data(df):
+def tag_data(df, thresholds):
     base_df = df[['source_singular']].drop_duplicates()
     
-    for tag_df in [tag_country(df, 10, 1000, 0.75), tag_sub_event_type(df, 10, 1000, 0.85), tag_time_period(df)]:
+    for tag_df in [
+        tag_country(df, thresholds['cty_min'], thresholds['cty_max'], thresholds['cty_pct']),
+        tag_sub_event_type(df, thresholds['evt_min'], thresholds['evt_max'], thresholds['evt_pct'])
+    ]:
+        print(len(tag_df))
         base_df = sqldf('''
             SELECT * FROM base_df a
-            JOIN tag_df b ON a.source_singular = b.source_singular
-        ''')
+            LEFT JOIN tag_df b ON a.source_singular = b.source_singular
+        ''', locals())
+     
+    src_df = df[['source_singular']].drop_duplicates()
+    
+    fin_df = sqldf('''
+        SELECT a.source_singular,
+        b.country, b.country_pct, b.country_total,
+        b.sub_event_type, b.sub_event_type_pct, sub_event_type_total
+        FROM src_df a
+        LEFT JOIN base_df b ON a.source_singular = b.source_singular
+    ''', locals())
+  
 
-    return base_df
+    return fin_df

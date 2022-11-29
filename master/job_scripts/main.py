@@ -39,6 +39,19 @@ parser.add_argument(
 )
 
 parser.add_argument(
+    '--threshold_params',
+    help = 'Dictionary of parameter values for tagging logic thresholds',
+    default = {
+        'cty_pct': 0.9,
+        'cty_min': 3,
+        'cty_max': 250,
+        'evt_pct': 0.7,
+        'evt_min': 5,
+        'evt_max': 83
+    }
+)
+
+parser.add_argument(
     '--tagged_data_output_path',
     help = 'Desired filepath to save tagged dataset',
     default = None
@@ -65,6 +78,7 @@ def main():
     date_maximum = args.date_maximum
     tag_local = args.tag_local
     local_data_path = args.local_data_path
+    threshold_params = args.threshold_params
     tagged_data_format_suffix = args.tagged_data_format_suffix
     output_path = args.tagged_data_output_path
     output_name = args.tagged_data_output_name
@@ -82,7 +96,7 @@ def main():
         transformed_df = expand_source_data(df)
         
     with StepTimer('Tag data'):
-        tagged_df = tag_data(transformed_df)
+        tagged_df = tag_data(transformed_df, threshold_params)
 
     with StepTimer(f'Saving tagged data as {output_name}.{format_suffix}'):
         if output_path:
